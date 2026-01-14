@@ -92,6 +92,23 @@ class DashboardData:
         except Exception:
             return {}
     
+    def get_dream_stats(self) -> dict:
+        """Get dream/metacognition statistics."""
+        try:
+            stats_path = self.target_path / "workspace" / "dream_stats.json"
+            if stats_path.exists():
+                with open(stats_path, 'r') as f:
+                    return json.load(f)
+            
+            return {
+                'last_dream': None,
+                'memories_consolidated': 0,
+                'entropy_removed': 0,
+                'patterns_found': 0
+            }
+        except Exception:
+            return {}
+    
     def get_all_data(self) -> dict:
         """Get all dashboard data."""
         # Cache for 5 seconds
@@ -103,6 +120,7 @@ class DashboardData:
             'memory': self.get_memory(),
             'learning': self.get_learning(),
             'sensory': self.get_sensory_metrics(),
+            'dream': self.get_dream_stats(),
             'timestamp': datetime.now().isoformat()
         }
         self._cache_time = time.time()
@@ -115,6 +133,7 @@ def generate_dashboard_html(data: dict) -> str:
     memory = data.get('memory', {})
     learning = data.get('learning', {})
     sensory = data.get('sensory', {})
+    dream = data.get('dream', {})
     
     h = harmony.get('harmony', 0)
     l = harmony.get('love', 0)
@@ -145,6 +164,14 @@ def generate_dashboard_html(data: dict) -> str:
     deep_scans = sensory.get('deep_scans', 0)
     sensory_depth = sensory.get('sensory_depth_percent', 0)
     cache_hit_rate = sensory.get('cache_hit_rate', 0)
+    
+    # Dream/Metacognition stats
+    last_dream = dream.get('last_dream', 'Never')
+    if last_dream and last_dream != 'Never':
+        last_dream = last_dream[:16].replace('T', ' ')  # Format datetime
+    memories_consolidated = dream.get('memories_consolidated', 0)
+    entropy_removed = dream.get('entropy_removed', 0)
+    patterns_found = dream.get('patterns_found', 0)
     
     # Harmony history for chart
     history = memory.get('harmony_history', [])[-50:]
@@ -408,6 +435,27 @@ def generate_dashboard_html(data: dict) -> str:
                 <div class="stat">
                     <span>Cache Hit Rate</span>
                     <span class="stat-value">{cache_hit_rate:.1f}%</span>
+                </div>
+            </div>
+            
+            <!-- Metacognition (The Dream) -->
+            <div class="card">
+                <h2>Metacognition (The Dream)</h2>
+                <div class="stat">
+                    <span>Memories Consolidated</span>
+                    <span class="stat-value" style="color: #a855f7;">{memories_consolidated}</span>
+                </div>
+                <div class="stat">
+                    <span>Entropy Removed</span>
+                    <span class="stat-value" style="color: #22c55e;">{entropy_removed}</span>
+                </div>
+                <div class="stat">
+                    <span>Patterns Detected</span>
+                    <span class="stat-value">{patterns_found}</span>
+                </div>
+                <div class="stat">
+                    <span>Last Dream</span>
+                    <span class="stat-value" style="font-size: 0.75rem;">{last_dream}</span>
                 </div>
             </div>
             
