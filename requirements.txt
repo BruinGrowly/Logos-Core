@@ -2,3 +2,5 @@ watchdog
 pyyaml
 sentence-transformers
 numpy
+pypdf
+python-docx

@@ -70,6 +70,28 @@ class DashboardData:
                 return json.load(f)
         return {}
     
+    def get_sensory_metrics(self) -> dict:
+        """Get sensory depth metrics from the semantic engine."""
+        try:
+            # Try to get metrics from workspace cache file
+            cache_path = self.target_path / "workspace" / "sensory_metrics.json"
+            if cache_path.exists():
+                with open(cache_path, 'r') as f:
+                    return json.load(f)
+            
+            # Default metrics if not available
+            return {
+                'surface_scans': 0,
+                'deep_scans': 0,
+                'sensory_depth_percent': 0,
+                'cache_hits': 0,
+                'cache_misses': 0,
+                'cache_hit_rate': 0,
+                'cached_files': 0
+            }
+        except Exception:
+            return {}
+    
     def get_all_data(self) -> dict:
         """Get all dashboard data."""
         # Cache for 5 seconds
@@ -80,6 +102,7 @@ class DashboardData:
             'harmony': self.get_harmony(),
             'memory': self.get_memory(),
             'learning': self.get_learning(),
+            'sensory': self.get_sensory_metrics(),
             'timestamp': datetime.now().isoformat()
         }
         self._cache_time = time.time()
@@ -91,6 +114,7 @@ def generate_dashboard_html(data: dict) -> str:
     harmony = data.get('harmony', {})
     memory = data.get('memory', {})
     learning = data.get('learning', {})
+    sensory = data.get('sensory', {})
     
     h = harmony.get('harmony', 0)
     l = harmony.get('love', 0)
@@ -115,6 +139,12 @@ def generate_dashboard_html(data: dict) -> str:
     # Learning stats
     experiences = len(learning.get('experiences', []))
     priorities = learning.get('dimension_priorities', ['L', 'J', 'P', 'W'])
+    
+    # Sensory depth stats
+    surface_scans = sensory.get('surface_scans', 0)
+    deep_scans = sensory.get('deep_scans', 0)
+    sensory_depth = sensory.get('sensory_depth_percent', 0)
+    cache_hit_rate = sensory.get('cache_hit_rate', 0)
     
     # Harmony history for chart
     history = memory.get('harmony_history', [])[-50:]
@@ -357,6 +387,27 @@ def generate_dashboard_html(data: dict) -> str:
                 <div class="stat">
                     <span>Functions Analyzed</span>
                     <span class="stat-value">{harmony.get('total_functions', 0)}</span>
+                </div>
+            </div>
+            
+            <!-- Sensory Depth -->
+            <div class="card">
+                <h2>Sensory Depth (The Eye)</h2>
+                <div class="stat">
+                    <span>Surface Scans</span>
+                    <span class="stat-value">{surface_scans}</span>
+                </div>
+                <div class="stat">
+                    <span>Deep Scans</span>
+                    <span class="stat-value" style="color: #06b6d4;">{deep_scans}</span>
+                </div>
+                <div class="stat">
+                    <span>Sensory Depth</span>
+                    <span class="stat-value" style="font-size: 1.25rem;">{sensory_depth:.1f}%</span>
+                </div>
+                <div class="stat">
+                    <span>Cache Hit Rate</span>
+                    <span class="stat-value">{cache_hit_rate:.1f}%</span>
                 </div>
             </div>
             
