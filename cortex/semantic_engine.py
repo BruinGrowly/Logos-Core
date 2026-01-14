@@ -14,6 +14,7 @@ sensory cache to avoid re-vectorizing the same files.
 import os
 from memory.vector_memory import VectorMemory
 from memory.sensory_cache import SensoryCache
+from memory.hard_negatives import get_hard_negatives
 from sensory.reader import read_header, is_supported
 
 
@@ -32,10 +33,12 @@ class SemanticEngine:
     def __init__(self):
         self.memory = VectorMemory()
         self.cache = SensoryCache()
+        self.hard_negatives = get_hard_negatives()
         
         # Metrics for dashboard
         self.surface_scan_count = 0
         self.deep_scan_count = 0
+        self.rlhf_adjustments = 0  # Count of times RLHF affected a decision
     
     def evaluate(self, file_path, rules):
         """
@@ -97,10 +100,22 @@ class SemanticEngine:
                         if content_similarity > old_similarity:
                             print(f"[SemanticEngine] Content revealed higher similarity! ({content_similarity:.4f} > {old_similarity:.4f})")
                 
+                # ========== STAGE 3: RLHF ADJUSTMENT ==========
+                # Apply learned corrections from user feedback
+                adjustment = self.hard_negatives.get_confidence_adjustment(file_vector, concept)
+                if adjustment != 0:
+                    old_sim = similarity
+                    similarity = max(0.0, min(1.0, similarity + adjustment))  # Clamp to [0, 1]
+                    self.rlhf_adjustments += 1
+                    print(f"[SemanticEngine] RLHF Adjustment: {old_sim:.4f} -> {similarity:.4f} ({adjustment:+.2f})")
+                
                 # Final decision
                 if similarity >= threshold:
                     print(f"[SemanticEngine] MATCH FOUND! Concept: {concept}")
-                    return rule.get('Action')
+                    # Add concept to action for logging
+                    action = rule.get('Action', {}).copy()
+                    action['Concept'] = concept
+                    return action
 
         return None
     
@@ -158,6 +173,7 @@ class SemanticEngine:
     def get_metrics(self) -> dict:
         """Get all engine metrics for dashboard."""
         cache_stats = self.cache.get_stats()
+        hn_stats = self.hard_negatives.get_stats()
         return {
             'surface_scans': self.surface_scan_count,
             'deep_scans': self.deep_scan_count,
@@ -165,13 +181,17 @@ class SemanticEngine:
             'cache_hits': cache_stats['hits'],
             'cache_misses': cache_stats['misses'],
             'cache_hit_rate': cache_stats['hit_rate_percent'],
-            'cached_files': cache_stats['cached_entries']
+            'cached_files': cache_stats['cached_entries'],
+            'rlhf_adjustments': self.rlhf_adjustments,
+            'hard_negatives': hn_stats['total_negatives'],
+            'positives': hn_stats['total_positives']
         }
     
     def reset_metrics(self):
         """Reset scan counters."""
         self.surface_scan_count = 0
         self.deep_scan_count = 0
+        self.rlhf_adjustments = 0
     
     def save_metrics(self, workspace_path: str = None):
         """
