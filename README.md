@@ -1,136 +1,146 @@
-# Project Logos: The Semantic Overlay
+# Logos Core: The Semantic Overlay
 
-**Version:** 0.1 (Genesis)
-**Core Axiom:** "Code with Meaning, not just Instruction."
+**Version:** 0.5 (Bicameral Mind)
+**Status:** Operational Prototype
+**Architecture:** Hybrid Deterministic/Semantic
 
 ## 1. Project Overview
 
-**Logos** is a prototype Semantic Operating System that sits atop Microsoft Windows. It creates a "Meaning Layer" between the user and the file system.
+**Logos** is a Semantic Operating System overlay for Windows. It introduces a "Meaning Layer" between the user and the file system. Instead of managing files based solely on their location or extension, Logos manages them based on their *Context* and *Intent*.
 
-* **The Language (.logos):** A declarative syntax to define the *Context*, *Intent*, and *Gravity* of a folder or project.
-* **The OS (Overlay):** A Python-based runtime that watches the user's activity, reads `.logos` files, and enforces semantic rules (e.g., "Deep Work Mode", "Auto-Organization").
-
-## 2. Architecture Diagram
-
-* **Layer 1: The Substrate (Windows):** Holds raw files (`.txt`, `.pdf`).
-* **Layer 2: The Membrane (Python Runtime):**
-* **Sensors:** Monitors file system changes (`watchdog`).
-* **Interpreter:** Parses `.logos` files.
-* **Memory:** Vector Database (ChromaDB) for semantic indexing.
-
-
-* **Layer 3: The Spirit (LLM):** Local inference (Ollama) or API to provide "Reasoning."
+The system now operates with a **Bicameral Mind**:
+1.  **Reflex (Left Hemisphere):** Instant, rule-based execution (e.g., "If file contains 'invoice', move to Finance").
+2.  **Intuition (Right Hemisphere):** Vector-based conceptual matching (e.g., "If file *feels* like a payment confirmation, move to Finance").
 
 ---
 
-## 3. The "Logos" Language Syntax (v0.1)
-
-The AI Developer needs to build a parser for this specific syntax. It is **YAML-based** but **Entity-Oriented**.
-
-**File Extension:** `project.logos`
-
-```yaml
-# EXAMPLE SYNTAX v0.1
-
-Manifest: Project_Alpha
-Type: Entity
-State: Active
-
-Context:
-  Goal: "Complete the Q1 Financial Report"
-  Gravity: High                 # Determines priority/sorting
-  Owner: "Formalizer"
-  Vectors: [Finance, Strategy, Confidential]
-
-Rules:
-  # The "Conscience" of the folder
-  - If: "New File" aligns_with "Receipts"
-    Then: "Move to /Expenses folder"
-
-  - If: "User Focus" drops_below 50%
-    Then: "Alert 'Return to the Anchor'"
-
-Constraints:
-  - Reject: "Social Media Links"
-  - Enforce: "Encryption Level 5"
-
-```
-
----
-
-## 4. Implementation Plan (Phased)
-
-### Phase 1: The "Spinal Cord" (The Interpreter)
-
-**Objective:** Build a Python script that can read a `.logos` file and understand it.
-
-* **Task 1.1:** Create `interpreter.py`.
-* **Task 1.2:** Implement a parser (using `PyYAML`) to ingest `project.logos`.
-* **Task 1.3:** Create a simple "Action Engine" that prints the intent to the console.
-* *Input:* `project.logos`
-* *Output:* "System acknowledges: Gravity is HIGH. Goal is FINANCIAL REPORT."
-
-
-
-### Phase 2: The "Eyes" (The Watcher)
-
-**Objective:** Make the OS react when files move.
-
-* **Task 2.1:** Install `watchdog` library.
-* **Task 2.2:** Create `watcher.py` to monitor a specific "Test Folder."
-* **Task 2.3:** Connect Watcher to Interpreter.
-* *Logic:* When a file is dropped in "Test Folder," read the local `.logos` file to decide what to do with it.
-
-
-
-### Phase 3: The "Brain" (Semantic Routing)
-
-**Objective:** Connect to an LLM to perform "Fuzzy Logic."
-
-* **Task 3.1:** Integrate `ollama` or `openai` library.
-* **Task 3.2:** Implement the `aligns_with` function.
-* *Logic:* Instead of checking if file extension is `.pdf`, ask the LLM: *"Does this file content align with the concept of 'Receipts'?"*
-
-
-
----
-
-## 5. Directory Structure for the Repo
+## 2. Architecture
 
 ```text
 /logos-core
 │
-├── /cortex          (Logic Core)
-│   ├── __init__.py
-│   ├── interpreter.py   # The Logos Parser
-│   └── llm_bridge.py    # Connection to AI Model
+├── /cortex          (The Brain)
+│   ├── interpreter.py     # Parses .logos manifests
+│   ├── rules_engine.py    # Strict Logic (Reflex)
+│   ├── semantic_engine.py # Fuzzy Logic (Intuition/Vectors)
+│   └── actuator.py        # The Hands (File Ops, Logging)
 │
-├── /sensory         (Input/Output)
-│   ├── watcher.py       # File System Monitor
-│   └── tray_icon.py     # System Tray UI (Cyan Pulse)
+├── /sensory         (The Senses)
+│   └── watcher.py         # File System Monitor (Watchdog)
 │
-├── /memory          (State)
-│   └── vector_store.py  # ChromaDB Integration
+├── /memory          (The Hippocampus)
+│   └── vector_memory.py   # Local Vector Store (all-MiniLM-L6-v2)
 │
-├── main.py          # Entry Point (Run this to start the OS)
-├── requirements.txt # Dependencies (watchdog, pyyaml, langchain, etc.)
-└── README.md        # This Plan
-
+├── /workspace       (The Membrane)
+│   └── project.logos      # The Configuration Manifest
+│
+├── main.py          # Entry Point
+└── requirements.txt # Dependencies
 ```
 
 ---
 
-## 6. Instruction to the AI Developer
+## 3. Installation & Usage
 
-*(Copy and paste this into the first issue or prompt for the AI)*
+### Prerequisites
+*   Python 3.10+
+*   Windows OS (tested on win32)
 
-> **Prompt:**
-> "Act as a Senior Systems Architect. We are building 'Logos,' a semantic overlay for Windows.
-> **Goal:** Create a Python application that monitors a folder. When it detects a `project.logos` file (YAML format), it parses the rules defined therein.
-> **Step 1:** Write the `interpreter.py` that parses the YAML syntax defined in Section 3.
-> **Step 2:** Write `main.py` that uses `watchdog` to monitor a folder called `./workspace`.
-> **Step 3:** If a file is added to `./workspace`, trigger the interpreter to print the current 'Context' of that workspace based on the `.logos` file present.
-> Use **Clean Architecture**. Ensure the code is modular."
+### Setup
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/BruinGrowly/Logos-Core
+    cd Logos-Core
+    ```
+
+2.  Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    *Note: This includes `sentence-transformers` (~80MB model download on first run).*
+
+3.  **Run the System:**
+    ```bash
+    python main.py
+    ```
+
+4.  **Interact:**
+    *   The system monitors the `./workspace` folder.
+    *   Drop files into this folder to trigger rules defined in `project.logos`.
 
 ---
 
+## 4. Configuration: The `.logos` Syntax
+
+The system is controlled by `project.logos` files placed in monitored directories.
+
+### Example Configuration
+
+```yaml
+Manifest: Project_Alpha
+Type: Entity
+
+Rules:
+  # --- REFLEX RULES (Strict/Fast) ---
+  
+  # Rule 1: Organization by Keyword
+  - Trigger:
+      Type: "File_Event"
+      Condition: "Filename"
+      Contains: ["invoice", "receipt", "bill"]
+    Action:
+      Type: "Move_File"
+      Destination: "./Financial_Docs"
+
+  # Rule 2: Security by Extension
+  - Trigger:
+      Type: "File_Event"
+      Condition: "Extension"
+      Is: [".secret", ".key"]
+    Action:
+      Type: "Log_Event"
+      Message: "Secure file detected. Verify encryption."
+
+  # --- INTUITION RULES (Fuzzy/Smart) ---
+
+  # Rule 3: Semantic Matching
+  # Matches files like "payment_doc_001.txt" even if they don't say "invoice"
+  - Trigger:
+      Type: "Semantic_Match"
+      Concept: "Payment Confirmation"  # The system calculates the vector for this
+      Threshold: 0.4                   # 0.0 to 1.0 similarity score
+    Action:
+      Type: "Move_File"
+      Destination: "./Financial_Docs"
+```
+
+---
+
+## 5. How It Works (The Pipeline)
+
+When a file enters the workspace:
+
+1.  **Sensation:** `watcher.py` detects the file creation/modification.
+2.  **Interpretation:** `interpreter.py` reads the local `project.logos` to understand the rules.
+3.  **Reflex Check:** `rules_engine.py` checks for strict matches (Filename/Extension).
+    *   *If Match:* The **Actuator** executes the action immediately.
+4.  **Intuition Check:** If no reflex matches, `semantic_engine.py` activates.
+    *   It encodes the filename into a vector.
+    *   It compares it against the "Concepts" defined in your rules.
+    *   *If Similarity > Threshold:* The **Actuator** executes the action.
+
+---
+
+## 6. Development Roadmap
+
+*   [x] **Phase 1:** Interpreter (YAML Parsing)
+*   [x] **Phase 2:** Watcher (File System Events)
+*   [x] **Phase 3:** Reflex Engine (Strict Logic)
+*   [x] **Phase 4:** Actuator (File Operations)
+*   [x] **Phase 5:** Semantic Brain (Local Vector Embeddings)
+*   [ ] **Phase 6:** Deep Content Reading (OCR/PDF Parsing)
+*   [ ] **Phase 7:** Feedback Loop (Reinforcement Learning)
+
+---
+
+**Logos Core** — *Code with Meaning.*
