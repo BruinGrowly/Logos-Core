@@ -1,0 +1,30 @@
+Manifest: Project_Alpha
+Type: Entity
+
+Rules:
+  # Rule 1: Organization (Strict)
+  - Trigger:
+      Type: "File_Event"
+      Condition: "Filename"
+      Contains: ["invoice", "receipt", "bill"]
+    Action:
+      Type: "Move_File"
+      Destination: "./Financial_Docs"
+
+  # Rule 2: Security (Strict)
+  - Trigger:
+      Type: "File_Event"
+      Condition: "Extension"
+      Is: [".secret", ".key"]
+    Action:
+      Type: "Log_Event"
+      Message: "Secure file detected. Verify encryption."
+
+  # Rule 3: Semantic Organization (Fuzzy)
+  - Trigger:
+      Type: "Semantic_Match"
+      Concept: "Payment Confirmation"
+      Threshold: 0.4
+    Action:
+      Type: "Move_File"
+      Destination: "./Financial_Docs"

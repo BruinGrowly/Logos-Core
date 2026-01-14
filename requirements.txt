@@ -1,0 +1,4 @@
+watchdog
+pyyaml
+sentence-transformers
+numpy
