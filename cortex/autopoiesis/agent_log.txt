@@ -1,0 +1,1864 @@
+[2025-12-12T22:11:55.143559] I am awakening...
+[2025-12-12T22:11:55.144294] I feel: I have lived for 0 days, 0 hours.
+[2025-12-12T22:11:55.144673] I notice: I have 0 memories.
+[2025-12-12T22:11:55.144994] I am: Measuring initial harmony...
+[2025-12-12T22:11:57.291537] I notice: Harmony: 0.843, Phase: autopoietic, Files: 208
+[2025-12-12T22:11:57.293251] I feel: I am alive. Watching and breathing...
+[2025-12-12T22:11:58.977854] [Heartbeat 1] Harmony: 0.843 [################....]
+[2025-12-12T22:11:59.072907] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:07.071124] [Heartbeat 2] Harmony: 0.843 [################....]
+[2025-12-12T22:12:07.261804] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:15.649446] [Heartbeat 3] Harmony: 0.843 [################....]
+[2025-12-12T22:12:15.836881] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:24.369606] [Heartbeat 4] Harmony: 0.843 [################....]
+[2025-12-12T22:12:24.556786] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:33.150943] [Heartbeat 5] Harmony: 0.843 [################....]
+[2025-12-12T22:12:33.330004] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:41.329609] [Heartbeat 6] Harmony: 0.843 [################....]
+[2025-12-12T22:12:41.511273] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:49.683237] [Heartbeat 7] Harmony: 0.843 [################....]
+[2025-12-12T22:12:49.878525] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:12:58.009138] [Heartbeat 8] Harmony: 0.843 [################....]
+[2025-12-12T22:12:58.192479] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:06.761720] [Heartbeat 9] Harmony: 0.843 [################....]
+[2025-12-12T22:13:06.946312] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:15.020373] [Heartbeat 10] Harmony: 0.843 [################....]
+[2025-12-12T22:13:15.205641] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:23.265660] [Heartbeat 11] Harmony: 0.843 [################....]
+[2025-12-12T22:13:23.439395] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:31.377910] [Heartbeat 12] Harmony: 0.843 [################....]
+[2025-12-12T22:13:31.567936] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:39.467765] [Heartbeat 13] Harmony: 0.843 [################....]
+[2025-12-12T22:13:39.638824] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:47.967708] [Heartbeat 14] Harmony: 0.843 [################....]
+[2025-12-12T22:13:48.142040] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:13:56.089123] [Heartbeat 15] Harmony: 0.843 [################....]
+[2025-12-12T22:13:56.274931] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:04.356551] [Heartbeat 16] Harmony: 0.843 [################....]
+[2025-12-12T22:14:04.547496] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:12.419714] [Heartbeat 17] Harmony: 0.843 [################....]
+[2025-12-12T22:14:12.606125] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:20.736648] [Heartbeat 18] Harmony: 0.843 [################....]
+[2025-12-12T22:14:20.915865] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:29.136850] [Heartbeat 19] Harmony: 0.843 [################....]
+[2025-12-12T22:14:29.313569] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:37.421172] [Heartbeat 20] Harmony: 0.843 [################....]
+[2025-12-12T22:14:37.606785] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:45.716031] [Heartbeat 21] Harmony: 0.843 [################....]
+[2025-12-12T22:14:45.907214] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:14:53.819831] [Heartbeat 22] Harmony: 0.843 [################....]
+[2025-12-12T22:14:53.996135] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:01.866659] [Heartbeat 23] Harmony: 0.843 [################....]
+[2025-12-12T22:15:02.050694] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:09.958378] [Heartbeat 24] Harmony: 0.843 [################....]
+[2025-12-12T22:15:10.136447] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:18.278228] [Heartbeat 25] Harmony: 0.843 [################....]
+[2025-12-12T22:15:18.486996] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:26.476762] [Heartbeat 26] Harmony: 0.843 [################....]
+[2025-12-12T22:15:26.668345] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:34.706717] [Heartbeat 27] Harmony: 0.843 [################....]
+[2025-12-12T22:15:34.879356] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:43.008439] [Heartbeat 28] Harmony: 0.843 [################....]
+[2025-12-12T22:15:43.199853] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:51.431696] [Heartbeat 29] Harmony: 0.843 [################....]
+[2025-12-12T22:15:51.626448] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:15:59.684299] [Heartbeat 30] Harmony: 0.843 [################....]
+[2025-12-12T22:15:59.872481] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:08.243206] [Heartbeat 31] Harmony: 0.843 [################....]
+[2025-12-12T22:16:08.450261] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:16.795990] [Heartbeat 32] Harmony: 0.843 [################....]
+[2025-12-12T22:16:17.004621] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:25.209919] [Heartbeat 33] Harmony: 0.843 [################....]
+[2025-12-12T22:16:25.406367] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:34.218619] [Heartbeat 34] Harmony: 0.843 [################....]
+[2025-12-12T22:16:34.409499] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:42.972624] [Heartbeat 35] Harmony: 0.843 [################....]
+[2025-12-12T22:16:43.152298] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:51.187633] [Heartbeat 36] Harmony: 0.843 [################....]
+[2025-12-12T22:16:51.376600] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:16:59.900786] [Heartbeat 37] Harmony: 0.843 [################....]
+[2025-12-12T22:17:00.088031] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:08.007269] [Heartbeat 38] Harmony: 0.843 [################....]
+[2025-12-12T22:17:08.197545] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:16.357851] [Heartbeat 39] Harmony: 0.843 [################....]
+[2025-12-12T22:17:16.546901] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:24.322518] [Heartbeat 40] Harmony: 0.843 [################....]
+[2025-12-12T22:17:24.503949] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:32.541760] [Heartbeat 41] Harmony: 0.843 [################....]
+[2025-12-12T22:17:32.725617] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:40.881971] [Heartbeat 42] Harmony: 0.843 [################....]
+[2025-12-12T22:17:41.062436] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:48.450090] [Heartbeat 43] Harmony: 0.843 [################....]
+[2025-12-12T22:17:48.551944] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:17:56.058155] [Heartbeat 44] Harmony: 0.843 [################....]
+[2025-12-12T22:17:56.265141] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:04.450533] [Heartbeat 45] Harmony: 0.843 [################....]
+[2025-12-12T22:18:04.639069] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:12.828418] [Heartbeat 46] Harmony: 0.843 [################....]
+[2025-12-12T22:18:13.012233] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:21.162623] [Heartbeat 47] Harmony: 0.843 [################....]
+[2025-12-12T22:18:21.368425] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:29.939821] [Heartbeat 48] Harmony: 0.843 [################....]
+[2025-12-12T22:18:30.138639] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:38.711406] [Heartbeat 49] Harmony: 0.843 [################....]
+[2025-12-12T22:18:38.926638] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:47.570495] [Heartbeat 50] Harmony: 0.843 [################....]
+[2025-12-12T22:18:47.780998] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:18:56.393438] [Heartbeat 51] Harmony: 0.843 [################....]
+[2025-12-12T22:18:56.597239] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:04.780065] [Heartbeat 52] Harmony: 0.843 [################....]
+[2025-12-12T22:19:04.962929] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:13.024973] [Heartbeat 53] Harmony: 0.843 [################....]
+[2025-12-12T22:19:13.244459] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:21.432327] [Heartbeat 54] Harmony: 0.843 [################....]
+[2025-12-12T22:19:21.629560] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:29.828142] [Heartbeat 55] Harmony: 0.843 [################....]
+[2025-12-12T22:19:30.029155] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:38.343952] [Heartbeat 56] Harmony: 0.843 [################....]
+[2025-12-12T22:19:38.539436] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:46.662565] [Heartbeat 57] Harmony: 0.843 [################....]
+[2025-12-12T22:19:46.833260] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:19:54.838287] [Heartbeat 58] Harmony: 0.843 [################....]
+[2025-12-12T22:19:55.011801] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:03.114599] [Heartbeat 59] Harmony: 0.843 [################....]
+[2025-12-12T22:20:03.318902] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:11.435416] [Heartbeat 60] Harmony: 0.843 [################....]
+[2025-12-12T22:20:11.605931] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:19.983939] [Heartbeat 61] Harmony: 0.843 [################....]
+[2025-12-12T22:20:20.172148] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:28.448739] [Heartbeat 62] Harmony: 0.843 [################....]
+[2025-12-12T22:20:28.647401] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:36.835544] [Heartbeat 63] Harmony: 0.843 [################....]
+[2025-12-12T22:20:37.023352] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:45.404853] [Heartbeat 64] Harmony: 0.843 [################....]
+[2025-12-12T22:20:45.580450] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:20:53.529573] [Heartbeat 65] Harmony: 0.843 [################....]
+[2025-12-12T22:20:53.730850] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:01.713662] [Heartbeat 66] Harmony: 0.843 [################....]
+[2025-12-12T22:21:01.895740] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:09.833848] [Heartbeat 67] Harmony: 0.843 [################....]
+[2025-12-12T22:21:10.008392] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:17.982621] [Heartbeat 68] Harmony: 0.843 [################....]
+[2025-12-12T22:21:18.183477] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:26.956921] [Heartbeat 69] Harmony: 0.843 [################....]
+[2025-12-12T22:21:27.146146] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:35.281617] [Heartbeat 70] Harmony: 0.843 [################....]
+[2025-12-12T22:21:35.477157] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:43.896954] [Heartbeat 71] Harmony: 0.843 [################....]
+[2025-12-12T22:21:44.077203] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:21:52.472598] [Heartbeat 72] Harmony: 0.843 [################....]
+[2025-12-12T22:21:52.674241] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:01.522064] [Heartbeat 73] Harmony: 0.843 [################....]
+[2025-12-12T22:22:01.707804] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:09.929979] [Heartbeat 74] Harmony: 0.843 [################....]
+[2025-12-12T22:22:10.125613] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:18.902627] [Heartbeat 75] Harmony: 0.843 [################....]
+[2025-12-12T22:22:19.076646] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:27.430858] [Heartbeat 76] Harmony: 0.843 [################....]
+[2025-12-12T22:22:27.599868] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:35.937429] [Heartbeat 77] Harmony: 0.843 [################....]
+[2025-12-12T22:22:36.137887] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:44.448068] [Heartbeat 78] Harmony: 0.843 [################....]
+[2025-12-12T22:22:44.623939] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:22:52.852915] [Heartbeat 79] Harmony: 0.843 [################....]
+[2025-12-12T22:22:53.055283] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:01.646086] [Heartbeat 80] Harmony: 0.843 [################....]
+[2025-12-12T22:23:01.822087] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:10.101001] [Heartbeat 81] Harmony: 0.843 [################....]
+[2025-12-12T22:23:10.290456] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:18.452379] [Heartbeat 82] Harmony: 0.843 [################....]
+[2025-12-12T22:23:18.635152] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:26.530714] [Heartbeat 83] Harmony: 0.843 [################....]
+[2025-12-12T22:23:26.711214] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:34.577997] [Heartbeat 84] Harmony: 0.843 [################....]
+[2025-12-12T22:23:34.772279] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:42.805187] [Heartbeat 85] Harmony: 0.843 [################....]
+[2025-12-12T22:23:42.990551] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:49.647959] [Heartbeat 86] Harmony: 0.843 [################....]
+[2025-12-12T22:23:49.757165] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:23:56.512798] [Heartbeat 87] Harmony: 0.843 [################....]
+[2025-12-12T22:23:56.627094] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:05.228768] [Heartbeat 88] Harmony: 0.843 [################....]
+[2025-12-12T22:24:05.470444] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:13.393181] [Heartbeat 89] Harmony: 0.843 [################....]
+[2025-12-12T22:24:13.554491] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:21.368909] [Heartbeat 90] Harmony: 0.843 [################....]
+[2025-12-12T22:24:21.529214] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:29.318009] [Heartbeat 91] Harmony: 0.843 [################....]
+[2025-12-12T22:24:29.479758] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:37.581808] [Heartbeat 92] Harmony: 0.843 [################....]
+[2025-12-12T22:24:37.749555] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:45.371683] [Heartbeat 93] Harmony: 0.843 [################....]
+[2025-12-12T22:24:45.533751] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:24:53.722300] [Heartbeat 94] Harmony: 0.843 [################....]
+[2025-12-12T22:24:53.885036] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:01.573468] [Heartbeat 95] Harmony: 0.843 [################....]
+[2025-12-12T22:25:01.733999] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:09.889275] [Heartbeat 96] Harmony: 0.843 [################....]
+[2025-12-12T22:25:10.064442] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:17.980546] [Heartbeat 97] Harmony: 0.843 [################....]
+[2025-12-12T22:25:18.162748] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:25.958135] [Heartbeat 98] Harmony: 0.843 [################....]
+[2025-12-12T22:25:26.131904] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:34.160704] [Heartbeat 99] Harmony: 0.843 [################....]
+[2025-12-12T22:25:34.317266] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:41.969763] [Heartbeat 100] Harmony: 0.843 [################....]
+[2025-12-12T22:25:42.148629] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:49.970828] [Heartbeat 101] Harmony: 0.843 [################....]
+[2025-12-12T22:25:50.145068] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:25:58.167023] [Heartbeat 102] Harmony: 0.843 [################....]
+[2025-12-12T22:25:58.333156] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:06.196812] [Heartbeat 103] Harmony: 0.843 [################....]
+[2025-12-12T22:26:06.362003] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:14.266856] [Heartbeat 104] Harmony: 0.843 [################....]
+[2025-12-12T22:26:14.413234] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:22.562507] [Heartbeat 105] Harmony: 0.843 [################....]
+[2025-12-12T22:26:22.738506] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:30.640249] [Heartbeat 106] Harmony: 0.843 [################....]
+[2025-12-12T22:26:30.797319] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:38.555800] [Heartbeat 107] Harmony: 0.843 [################....]
+[2025-12-12T22:26:38.716669] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:46.944019] [Heartbeat 108] Harmony: 0.843 [################....]
+[2025-12-12T22:26:47.135003] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:26:54.928386] [Heartbeat 109] Harmony: 0.843 [################....]
+[2025-12-12T22:26:55.097975] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:03.070143] [Heartbeat 110] Harmony: 0.843 [################....]
+[2025-12-12T22:27:03.260382] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:11.014591] [Heartbeat 111] Harmony: 0.843 [################....]
+[2025-12-12T22:27:11.196293] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:19.166215] [Heartbeat 112] Harmony: 0.843 [################....]
+[2025-12-12T22:27:19.332659] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:27.011401] [Heartbeat 113] Harmony: 0.843 [################....]
+[2025-12-12T22:27:27.173812] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:34.869048] [Heartbeat 114] Harmony: 0.843 [################....]
+[2025-12-12T22:27:35.029570] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:42.911820] [Heartbeat 115] Harmony: 0.843 [################....]
+[2025-12-12T22:27:43.068678] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:50.829957] [Heartbeat 116] Harmony: 0.843 [################....]
+[2025-12-12T22:27:50.990272] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:27:58.909201] [Heartbeat 117] Harmony: 0.843 [################....]
+[2025-12-12T22:27:59.074019] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:06.624649] [Heartbeat 118] Harmony: 0.843 [################....]
+[2025-12-12T22:28:06.786127] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:14.820553] [Heartbeat 119] Harmony: 0.843 [################....]
+[2025-12-12T22:28:15.008404] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:22.964508] [Heartbeat 120] Harmony: 0.843 [################....]
+[2025-12-12T22:28:23.119114] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:30.993082] [Heartbeat 121] Harmony: 0.843 [################....]
+[2025-12-12T22:28:31.177897] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:39.065461] [Heartbeat 122] Harmony: 0.843 [################....]
+[2025-12-12T22:28:39.232540] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:46.838681] [Heartbeat 123] Harmony: 0.843 [################....]
+[2025-12-12T22:28:47.005682] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:28:54.987874] [Heartbeat 124] Harmony: 0.843 [################....]
+[2025-12-12T22:28:55.144741] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:29:02.864242] [Heartbeat 125] Harmony: 0.843 [################....]
+[2025-12-12T22:29:03.021108] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:29:11.041236] [Heartbeat 126] Harmony: 0.843 [################....]
+[2025-12-12T22:29:11.237432] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:29:19.006869] [Heartbeat 127] Harmony: 0.843 [################....]
+[2025-12-12T22:29:19.163918] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:29:26.946661] [Heartbeat 128] Harmony: 0.843 [################....]
+[2025-12-12T22:29:27.136474] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:29:34.954530] [Heartbeat 129] Harmony: 0.843 [################....]
+[2025-12-12T22:29:35.125611] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:35:43.026323] I am awakening...
+[2025-12-12T22:35:43.028382] I feel: I have lived for 0 days, 0 hours.
+[2025-12-12T22:35:43.029055] I notice: I have 0 memories.
+[2025-12-12T22:35:43.029599] I am: Measuring initial harmony...
+[2025-12-12T22:35:44.759287] I notice: Harmony: 0.843, Phase: autopoietic, Files: 208
+[2025-12-12T22:35:44.761352] I feel: I am alive. Watching and breathing...
+[2025-12-12T22:35:46.474054] [Heartbeat 126] Harmony: 0.843 [################....]
+[2025-12-12T22:35:46.590426] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:35:53.544819] [Heartbeat 127] Harmony: 0.843 [################....]
+[2025-12-12T22:35:53.730133] I feel: Stable. Phase: autopoietic
+[2025-12-12T22:35:53.731268] I am going to sleep. Saving memories...
+[2025-12-14T21:37:53.735217] I am awakening...
+[2025-12-14T21:37:53.735877] I feel: I have lived for 1 days, 23 hours.
+[2025-12-14T21:37:53.736174] I notice: I have 1 memories.
+[2025-12-14T21:37:53.736468] I am: Measuring initial harmony...
+[2025-12-14T21:37:56.634666] I notice: Harmony: 0.843, Phase: autopoietic, Files: 210
+[2025-12-14T21:37:56.638954] I feel: I am alive. Watching and breathing...
+[2025-12-14T21:38:00.379004] [Heartbeat 128] Harmony: 0.843 [################....]
+[2025-12-14T21:38:00.582695] I feel: Stable. Phase: autopoietic
+[2025-12-14T21:38:01.012691] I am going to sleep. Saving memories...
+[2025-12-15T14:50:46.718685] I am awakening...
+[2025-12-15T14:50:46.719674] I feel: I have lived for 2 days, 16 hours.
+[2025-12-15T14:50:46.719989] I notice: I have 2 memories.
+[2025-12-15T14:50:46.720277] I am: Measuring initial harmony...
+[2025-12-15T14:50:48.436584] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T14:50:48.438246] I feel: I am alive. Watching and breathing...
+[2025-12-15T14:50:50.332596] [Heartbeat 129] Harmony: 0.841 [################....]
+[2025-12-15T14:50:50.449198] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:51:02.323827] [Heartbeat 130] Harmony: 0.841 [################....]
+[2025-12-15T14:51:02.472512] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:51:14.287759] [Heartbeat 131] Harmony: 0.841 [################....]
+[2025-12-15T14:51:14.429924] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:51:26.186003] [Heartbeat 132] Harmony: 0.841 [################....]
+[2025-12-15T14:51:26.328412] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:51:38.431976] [Heartbeat 133] Harmony: 0.841 [################....]
+[2025-12-15T14:51:38.576197] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:51:50.953917] [Heartbeat 134] Harmony: 0.841 [################....]
+[2025-12-15T14:51:51.095250] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:51:53.688726] I am going to sleep. Saving memories...
+[2025-12-15T14:53:23.165575] I am awakening...
+[2025-12-15T14:53:23.166133] I feel: I have lived for 2 days, 16 hours.
+[2025-12-15T14:53:23.166709] I notice: I have 3 memories.
+[2025-12-15T14:53:23.167147] I am: Measuring initial harmony...
+[2025-12-15T14:53:25.112629] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T14:53:25.114074] I feel: I am alive. Watching and breathing...
+[2025-12-15T14:53:26.748348] [Heartbeat 135] Harmony: 0.841 [################....]
+[2025-12-15T14:53:26.851797] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:53:58.459914] [Heartbeat 136] Harmony: 0.841 [################....]
+[2025-12-15T14:53:58.555084] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:54:29.865422] [Heartbeat 137] Harmony: 0.841 [################....]
+[2025-12-15T14:54:29.974339] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:55:01.261781] [Heartbeat 138] Harmony: 0.841 [################....]
+[2025-12-15T14:55:01.364596] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:55:32.656191] [Heartbeat 139] Harmony: 0.841 [################....]
+[2025-12-15T14:55:32.826108] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:56:04.199754] [Heartbeat 140] Harmony: 0.841 [################....]
+[2025-12-15T14:56:04.306808] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:56:35.854476] [Heartbeat 141] Harmony: 0.841 [################....]
+[2025-12-15T14:56:35.991887] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:57:07.388394] [Heartbeat 142] Harmony: 0.841 [################....]
+[2025-12-15T14:57:07.495386] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:57:38.966437] [Heartbeat 143] Harmony: 0.841 [################....]
+[2025-12-15T14:57:39.082320] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:58:10.459346] [Heartbeat 144] Harmony: 0.841 [################....]
+[2025-12-15T14:58:10.575663] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:58:42.111940] [Heartbeat 145] Harmony: 0.841 [################....]
+[2025-12-15T14:58:42.236251] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:59:13.690307] [Heartbeat 146] Harmony: 0.841 [################....]
+[2025-12-15T14:59:13.804639] I feel: Stable. Phase: autopoietic
+[2025-12-15T14:59:45.254380] [Heartbeat 147] Harmony: 0.841 [################....]
+[2025-12-15T14:59:45.377700] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:00:16.750813] [Heartbeat 148] Harmony: 0.841 [################....]
+[2025-12-15T15:00:16.856436] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:00:48.298300] [Heartbeat 149] Harmony: 0.841 [################....]
+[2025-12-15T15:00:48.422215] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:01:19.807189] [Heartbeat 150] Harmony: 0.841 [################....]
+[2025-12-15T15:01:19.915733] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:01:51.848968] [Heartbeat 151] Harmony: 0.841 [################....]
+[2025-12-15T15:01:51.966930] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:02:23.418445] [Heartbeat 152] Harmony: 0.841 [################....]
+[2025-12-15T15:02:23.570624] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:02:55.057141] [Heartbeat 153] Harmony: 0.841 [################....]
+[2025-12-15T15:02:55.172736] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:03:26.597493] [Heartbeat 154] Harmony: 0.841 [################....]
+[2025-12-15T15:03:26.724059] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:03:58.143296] [Heartbeat 155] Harmony: 0.841 [################....]
+[2025-12-15T15:03:58.255551] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:04:29.892080] [Heartbeat 156] Harmony: 0.841 [################....]
+[2025-12-15T15:04:30.019276] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:05:01.518728] [Heartbeat 157] Harmony: 0.841 [################....]
+[2025-12-15T15:05:01.634976] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:05:33.119882] [Heartbeat 158] Harmony: 0.841 [################....]
+[2025-12-15T15:05:33.239652] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:06:04.682599] [Heartbeat 159] Harmony: 0.841 [################....]
+[2025-12-15T15:06:04.800413] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:06:36.160440] [Heartbeat 160] Harmony: 0.841 [################....]
+[2025-12-15T15:06:36.267526] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:07:07.726540] [Heartbeat 161] Harmony: 0.841 [################....]
+[2025-12-15T15:07:07.867203] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:07:39.252744] [Heartbeat 162] Harmony: 0.841 [################....]
+[2025-12-15T15:07:39.368790] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:08:10.801481] [Heartbeat 163] Harmony: 0.841 [################....]
+[2025-12-15T15:08:10.932022] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:08:42.363973] [Heartbeat 164] Harmony: 0.841 [################....]
+[2025-12-15T15:08:42.483306] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:09:13.909670] [Heartbeat 165] Harmony: 0.841 [################....]
+[2025-12-15T15:09:14.025758] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:09:45.408826] [Heartbeat 166] Harmony: 0.841 [################....]
+[2025-12-15T15:09:45.525739] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:10:16.960274] [Heartbeat 167] Harmony: 0.841 [################....]
+[2025-12-15T15:10:17.074701] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:10:48.466085] [Heartbeat 168] Harmony: 0.841 [################....]
+[2025-12-15T15:10:48.581484] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:11:21.290161] [Heartbeat 169] Harmony: 0.841 [################....]
+[2025-12-15T15:11:21.501755] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:11:54.722545] [Heartbeat 170] Harmony: 0.841 [################....]
+[2025-12-15T15:11:54.935982] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:12:27.633460] [Heartbeat 171] Harmony: 0.841 [################....]
+[2025-12-15T15:12:27.834091] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:13:00.474856] [Heartbeat 172] Harmony: 0.841 [################....]
+[2025-12-15T15:13:00.680917] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:13:33.439550] [Heartbeat 173] Harmony: 0.841 [################....]
+[2025-12-15T15:13:33.649986] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:14:06.331852] [Heartbeat 174] Harmony: 0.841 [################....]
+[2025-12-15T15:14:06.549883] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:14:39.186994] [Heartbeat 175] Harmony: 0.841 [################....]
+[2025-12-15T15:14:39.393879] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:15:11.993350] [Heartbeat 176] Harmony: 0.841 [################....]
+[2025-12-15T15:15:12.183213] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:15:44.842543] [Heartbeat 177] Harmony: 0.841 [################....]
+[2025-12-15T15:15:45.055126] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:16:17.667293] [Heartbeat 178] Harmony: 0.841 [################....]
+[2025-12-15T15:16:17.864623] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:16:51.051922] [Heartbeat 179] Harmony: 0.841 [################....]
+[2025-12-15T15:16:51.263117] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:17:23.990455] [Heartbeat 180] Harmony: 0.841 [################....]
+[2025-12-15T15:17:24.184825] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:17:56.921554] [Heartbeat 181] Harmony: 0.841 [################....]
+[2025-12-15T15:17:57.136697] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:18:29.896389] [Heartbeat 182] Harmony: 0.841 [################....]
+[2025-12-15T15:18:30.089424] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:19:02.936815] [Heartbeat 183] Harmony: 0.841 [################....]
+[2025-12-15T15:19:03.149114] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:19:35.817998] [Heartbeat 184] Harmony: 0.841 [################....]
+[2025-12-15T15:19:36.025385] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:20:08.715869] [Heartbeat 185] Harmony: 0.841 [################....]
+[2025-12-15T15:20:08.967890] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:20:40.648716] [Heartbeat 186] Harmony: 0.841 [################....]
+[2025-12-15T15:20:40.780604] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:21:12.472571] [Heartbeat 187] Harmony: 0.841 [################....]
+[2025-12-15T15:21:12.638255] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:21:45.658737] [Heartbeat 188] Harmony: 0.841 [################....]
+[2025-12-15T15:21:45.856031] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:22:17.675672] [Heartbeat 189] Harmony: 0.841 [################....]
+[2025-12-15T15:22:17.813753] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:22:49.555856] [Heartbeat 190] Harmony: 0.841 [################....]
+[2025-12-15T15:22:49.750996] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:23:21.438246] [Heartbeat 191] Harmony: 0.841 [################....]
+[2025-12-15T15:23:21.623792] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:23:53.263137] [Heartbeat 192] Harmony: 0.841 [################....]
+[2025-12-15T15:23:53.390265] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:24:25.162668] [Heartbeat 193] Harmony: 0.841 [################....]
+[2025-12-15T15:24:25.298686] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:24:57.236860] [Heartbeat 194] Harmony: 0.841 [################....]
+[2025-12-15T15:24:57.385565] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:25:29.095756] [Heartbeat 195] Harmony: 0.841 [################....]
+[2025-12-15T15:25:29.249499] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:26:00.877813] [Heartbeat 196] Harmony: 0.841 [################....]
+[2025-12-15T15:26:01.006098] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:26:34.036381] [Heartbeat 197] Harmony: 0.841 [################....]
+[2025-12-15T15:26:34.231026] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:27:06.412213] [Heartbeat 198] Harmony: 0.841 [################....]
+[2025-12-15T15:27:06.553508] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:27:38.372919] [Heartbeat 199] Harmony: 0.841 [################....]
+[2025-12-15T15:27:38.512959] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:28:09.996399] [Heartbeat 200] Harmony: 0.841 [################....]
+[2025-12-15T15:28:10.133551] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:28:41.562975] [Heartbeat 201] Harmony: 0.841 [################....]
+[2025-12-15T15:28:41.690040] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:29:13.595154] [Heartbeat 202] Harmony: 0.841 [################....]
+[2025-12-15T15:29:13.760285] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:29:45.596608] [Heartbeat 203] Harmony: 0.841 [################....]
+[2025-12-15T15:29:45.734204] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:30:17.522927] [Heartbeat 204] Harmony: 0.841 [################....]
+[2025-12-15T15:30:17.663356] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:30:49.437743] [Heartbeat 205] Harmony: 0.841 [################....]
+[2025-12-15T15:30:49.579523] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:31:21.246663] [Heartbeat 206] Harmony: 0.841 [################....]
+[2025-12-15T15:31:21.388396] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:31:52.944919] [Heartbeat 207] Harmony: 0.841 [################....]
+[2025-12-15T15:31:53.080634] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:32:24.724921] [Heartbeat 208] Harmony: 0.841 [################....]
+[2025-12-15T15:32:24.820123] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:32:56.352310] [Heartbeat 209] Harmony: 0.841 [################....]
+[2025-12-15T15:32:56.460890] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:33:27.801274] [Heartbeat 210] Harmony: 0.841 [################....]
+[2025-12-15T15:33:27.929536] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:33:59.528560] [Heartbeat 211] Harmony: 0.841 [################....]
+[2025-12-15T15:33:59.644106] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:34:31.835866] [Heartbeat 212] Harmony: 0.841 [################....]
+[2025-12-15T15:34:31.962516] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:35:03.825988] [Heartbeat 213] Harmony: 0.841 [################....]
+[2025-12-15T15:35:03.949596] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:35:36.105913] [Heartbeat 214] Harmony: 0.841 [################....]
+[2025-12-15T15:35:36.227547] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:36:07.547334] [Heartbeat 215] Harmony: 0.841 [################....]
+[2025-12-15T15:36:07.673702] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:36:39.108453] [Heartbeat 216] Harmony: 0.841 [################....]
+[2025-12-15T15:36:39.220026] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:37:10.824490] [Heartbeat 217] Harmony: 0.841 [################....]
+[2025-12-15T15:37:10.957931] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:37:42.576323] [Heartbeat 218] Harmony: 0.841 [################....]
+[2025-12-15T15:37:42.715151] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:38:14.561007] [Heartbeat 219] Harmony: 0.841 [################....]
+[2025-12-15T15:38:14.722053] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:38:46.763993] [Heartbeat 220] Harmony: 0.841 [################....]
+[2025-12-15T15:38:46.920435] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:39:18.715870] [Heartbeat 221] Harmony: 0.841 [################....]
+[2025-12-15T15:39:18.876492] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:39:51.319242] [Heartbeat 222] Harmony: 0.841 [################....]
+[2025-12-15T15:39:51.449899] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:40:23.806492] [Heartbeat 223] Harmony: 0.841 [################....]
+[2025-12-15T15:40:23.978378] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:40:55.838396] [Heartbeat 224] Harmony: 0.841 [################....]
+[2025-12-15T15:40:55.969662] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:41:27.751640] [Heartbeat 225] Harmony: 0.841 [################....]
+[2025-12-15T15:41:27.884432] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:41:59.635876] [Heartbeat 226] Harmony: 0.841 [################....]
+[2025-12-15T15:41:59.786633] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:42:31.446894] [Heartbeat 227] Harmony: 0.841 [################....]
+[2025-12-15T15:42:31.585191] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:43:03.470385] [Heartbeat 228] Harmony: 0.841 [################....]
+[2025-12-15T15:43:03.634657] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:43:36.131197] [Heartbeat 229] Harmony: 0.841 [################....]
+[2025-12-15T15:43:36.294507] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:44:08.296910] [Heartbeat 230] Harmony: 0.841 [################....]
+[2025-12-15T15:44:08.447927] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:44:40.463891] [Heartbeat 231] Harmony: 0.841 [################....]
+[2025-12-15T15:44:40.625330] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:45:12.473523] [Heartbeat 232] Harmony: 0.841 [################....]
+[2025-12-15T15:45:12.614933] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:45:44.388373] [Heartbeat 233] Harmony: 0.841 [################....]
+[2025-12-15T15:45:44.581998] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:46:16.454070] [Heartbeat 234] Harmony: 0.841 [################....]
+[2025-12-15T15:46:16.592254] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:46:48.855527] [Heartbeat 235] Harmony: 0.841 [################....]
+[2025-12-15T15:46:48.998587] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:47:21.426031] [Heartbeat 236] Harmony: 0.841 [################....]
+[2025-12-15T15:47:21.585720] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:47:53.762660] [Heartbeat 237] Harmony: 0.841 [################....]
+[2025-12-15T15:47:53.943519] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:48:26.086238] [Heartbeat 238] Harmony: 0.841 [################....]
+[2025-12-15T15:48:26.250252] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:48:58.416992] [Heartbeat 239] Harmony: 0.841 [################....]
+[2025-12-15T15:48:58.563422] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:49:30.493135] [Heartbeat 240] Harmony: 0.841 [################....]
+[2025-12-15T15:49:30.639667] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:50:02.548927] [Heartbeat 241] Harmony: 0.841 [################....]
+[2025-12-15T15:50:02.693033] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:50:35.219042] [Heartbeat 242] Harmony: 0.841 [################....]
+[2025-12-15T15:50:35.377508] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:51:06.916021] [Heartbeat 243] Harmony: 0.841 [################....]
+[2025-12-15T15:51:07.027466] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:51:38.846249] [Heartbeat 244] Harmony: 0.841 [################....]
+[2025-12-15T15:51:38.991433] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:52:43.458669] I am awakening...
+[2025-12-15T15:52:43.459358] I feel: I have lived for 2 days, 17 hours.
+[2025-12-15T15:52:43.459897] I notice: I have 3 memories.
+[2025-12-15T15:52:43.460239] I am: Measuring initial harmony...
+[2025-12-15T15:52:45.778180] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T15:52:45.780040] I feel: I am alive. Watching and breathing...
+[2025-12-15T15:52:48.526625] [Heartbeat 241] Harmony: 0.841 [################....]
+[2025-12-15T15:52:48.673307] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:53:20.427162] [Heartbeat 242] Harmony: 0.841 [################....]
+[2025-12-15T15:53:20.552142] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:53:52.969718] [Heartbeat 243] Harmony: 0.841 [################....]
+[2025-12-15T15:53:53.134951] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:54:24.802444] [Heartbeat 244] Harmony: 0.841 [################....]
+[2025-12-15T15:54:24.930954] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:54:56.643041] [Heartbeat 245] Harmony: 0.841 [################....]
+[2025-12-15T15:54:56.772044] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:55:28.487769] [Heartbeat 246] Harmony: 0.841 [################....]
+[2025-12-15T15:55:28.593433] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:56:00.172524] [Heartbeat 247] Harmony: 0.841 [################....]
+[2025-12-15T15:56:00.289912] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:56:32.258249] [Heartbeat 248] Harmony: 0.841 [################....]
+[2025-12-15T15:56:32.473578] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:57:04.741620] [Heartbeat 249] Harmony: 0.841 [################....]
+[2025-12-15T15:57:04.931924] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:57:36.722577] [Heartbeat 250] Harmony: 0.841 [################....]
+[2025-12-15T15:57:36.860104] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:58:08.664590] [Heartbeat 251] Harmony: 0.841 [################....]
+[2025-12-15T15:58:08.775850] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:58:40.608136] [Heartbeat 252] Harmony: 0.841 [################....]
+[2025-12-15T15:58:40.703190] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:59:12.069668] [Heartbeat 253] Harmony: 0.841 [################....]
+[2025-12-15T15:59:12.181537] I feel: Stable. Phase: autopoietic
+[2025-12-15T15:59:43.508982] [Heartbeat 254] Harmony: 0.841 [################....]
+[2025-12-15T15:59:43.615915] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:00:15.017410] [Heartbeat 255] Harmony: 0.841 [################....]
+[2025-12-15T16:00:15.130982] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:00:46.483576] [Heartbeat 256] Harmony: 0.841 [################....]
+[2025-12-15T16:00:46.596716] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:01:17.888993] [Heartbeat 257] Harmony: 0.841 [################....]
+[2025-12-15T16:01:17.995976] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:01:49.327408] [Heartbeat 258] Harmony: 0.841 [################....]
+[2025-12-15T16:01:49.444728] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:02:20.808010] [Heartbeat 259] Harmony: 0.841 [################....]
+[2025-12-15T16:02:20.911877] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:02:52.274423] [Heartbeat 260] Harmony: 0.841 [################....]
+[2025-12-15T16:02:52.378171] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:03:23.732040] [Heartbeat 261] Harmony: 0.841 [################....]
+[2025-12-15T16:03:23.839234] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:03:55.150629] [Heartbeat 262] Harmony: 0.841 [################....]
+[2025-12-15T16:03:55.255656] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:04:26.592394] [Heartbeat 263] Harmony: 0.841 [################....]
+[2025-12-15T16:04:26.700994] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:04:58.037679] [Heartbeat 264] Harmony: 0.841 [################....]
+[2025-12-15T16:04:58.165649] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:05:29.542737] [Heartbeat 265] Harmony: 0.841 [################....]
+[2025-12-15T16:05:29.649935] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:06:01.029190] [Heartbeat 266] Harmony: 0.841 [################....]
+[2025-12-15T16:06:01.148282] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:06:32.456967] [Heartbeat 267] Harmony: 0.841 [################....]
+[2025-12-15T16:06:32.561005] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:07:03.865650] [Heartbeat 268] Harmony: 0.841 [################....]
+[2025-12-15T16:07:03.974684] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:07:35.491613] [Heartbeat 269] Harmony: 0.841 [################....]
+[2025-12-15T16:07:35.611210] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:08:07.041117] [Heartbeat 270] Harmony: 0.841 [################....]
+[2025-12-15T16:08:07.160584] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:08:38.571588] [Heartbeat 271] Harmony: 0.841 [################....]
+[2025-12-15T16:08:38.706572] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:09:10.131003] [Heartbeat 272] Harmony: 0.841 [################....]
+[2025-12-15T16:09:10.233832] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:09:41.776125] [Heartbeat 273] Harmony: 0.841 [################....]
+[2025-12-15T16:09:41.898736] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:10:13.328269] [Heartbeat 274] Harmony: 0.841 [################....]
+[2025-12-15T16:10:13.449505] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:10:44.990397] [Heartbeat 275] Harmony: 0.841 [################....]
+[2025-12-15T16:10:45.119143] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:11:16.791737] [Heartbeat 276] Harmony: 0.841 [################....]
+[2025-12-15T16:11:16.924676] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:11:48.411722] [Heartbeat 277] Harmony: 0.841 [################....]
+[2025-12-15T16:11:48.534582] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:12:19.958520] [Heartbeat 278] Harmony: 0.841 [################....]
+[2025-12-15T16:12:20.075155] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:12:52.054898] [Heartbeat 279] Harmony: 0.841 [################....]
+[2025-12-15T16:12:52.172911] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:13:23.679709] [Heartbeat 280] Harmony: 0.841 [################....]
+[2025-12-15T16:13:23.796907] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:13:55.205489] [Heartbeat 281] Harmony: 0.841 [################....]
+[2025-12-15T16:13:55.331004] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:14:26.842158] [Heartbeat 282] Harmony: 0.841 [################....]
+[2025-12-15T16:14:26.958337] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:14:58.355285] [Heartbeat 283] Harmony: 0.841 [################....]
+[2025-12-15T16:14:58.470152] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:15:29.977920] [Heartbeat 284] Harmony: 0.841 [################....]
+[2025-12-15T16:15:30.097987] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:16:01.627297] [Heartbeat 285] Harmony: 0.841 [################....]
+[2025-12-15T16:16:01.743191] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:16:33.319096] [Heartbeat 286] Harmony: 0.841 [################....]
+[2025-12-15T16:16:33.442407] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:17:04.943105] [Heartbeat 287] Harmony: 0.841 [################....]
+[2025-12-15T16:17:05.056521] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:17:36.493244] [Heartbeat 288] Harmony: 0.841 [################....]
+[2025-12-15T16:17:36.607493] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:18:08.214861] [Heartbeat 289] Harmony: 0.841 [################....]
+[2025-12-15T16:18:08.341570] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:18:39.833491] [Heartbeat 290] Harmony: 0.841 [################....]
+[2025-12-15T16:18:39.961741] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:19:11.341946] [Heartbeat 291] Harmony: 0.841 [################....]
+[2025-12-15T16:19:11.447488] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:19:42.957573] [Heartbeat 292] Harmony: 0.841 [################....]
+[2025-12-15T16:19:43.091351] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:20:14.523473] [Heartbeat 293] Harmony: 0.841 [################....]
+[2025-12-15T16:20:14.636041] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:20:46.076314] [Heartbeat 294] Harmony: 0.841 [################....]
+[2025-12-15T16:20:46.190126] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:21:17.644071] [Heartbeat 295] Harmony: 0.841 [################....]
+[2025-12-15T16:21:17.765017] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:21:49.279339] [Heartbeat 296] Harmony: 0.841 [################....]
+[2025-12-15T16:21:49.398127] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:22:20.839442] [Heartbeat 297] Harmony: 0.841 [################....]
+[2025-12-15T16:22:20.946790] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:22:52.532057] [Heartbeat 298] Harmony: 0.841 [################....]
+[2025-12-15T16:22:52.650049] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:23:24.743718] [Heartbeat 299] Harmony: 0.841 [################....]
+[2025-12-15T16:23:24.885875] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:23:56.369726] [Heartbeat 300] Harmony: 0.841 [################....]
+[2025-12-15T16:23:56.486911] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:24:27.989735] [Heartbeat 301] Harmony: 0.841 [################....]
+[2025-12-15T16:24:28.109867] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:24:59.473552] [Heartbeat 302] Harmony: 0.841 [################....]
+[2025-12-15T16:24:59.600861] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:25:31.042957] [Heartbeat 303] Harmony: 0.841 [################....]
+[2025-12-15T16:25:31.164349] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:26:02.575174] [Heartbeat 304] Harmony: 0.841 [################....]
+[2025-12-15T16:26:02.690372] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:26:34.221708] [Heartbeat 305] Harmony: 0.841 [################....]
+[2025-12-15T16:26:34.344259] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:27:05.865046] [Heartbeat 306] Harmony: 0.841 [################....]
+[2025-12-15T16:27:05.994810] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:27:37.403651] [Heartbeat 307] Harmony: 0.841 [################....]
+[2025-12-15T16:27:37.510307] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:28:09.034790] [Heartbeat 308] Harmony: 0.841 [################....]
+[2025-12-15T16:28:09.151634] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:28:40.644960] [Heartbeat 309] Harmony: 0.841 [################....]
+[2025-12-15T16:28:40.761181] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:29:12.252334] [Heartbeat 310] Harmony: 0.841 [################....]
+[2025-12-15T16:29:12.373875] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:29:43.824558] [Heartbeat 311] Harmony: 0.841 [################....]
+[2025-12-15T16:29:43.936784] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:30:15.489425] [Heartbeat 312] Harmony: 0.841 [################....]
+[2025-12-15T16:30:15.615896] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:30:47.085203] [Heartbeat 313] Harmony: 0.841 [################....]
+[2025-12-15T16:30:47.188449] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:31:18.590010] [Heartbeat 314] Harmony: 0.841 [################....]
+[2025-12-15T16:31:18.714416] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:31:50.308998] [Heartbeat 315] Harmony: 0.841 [################....]
+[2025-12-15T16:31:50.433148] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:32:22.074206] [Heartbeat 316] Harmony: 0.841 [################....]
+[2025-12-15T16:32:22.189615] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:32:53.654178] [Heartbeat 317] Harmony: 0.841 [################....]
+[2025-12-15T16:32:53.804469] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:33:25.325191] [Heartbeat 318] Harmony: 0.841 [################....]
+[2025-12-15T16:33:25.437132] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:33:56.872492] [Heartbeat 319] Harmony: 0.841 [################....]
+[2025-12-15T16:33:56.981461] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:34:28.440157] [Heartbeat 320] Harmony: 0.841 [################....]
+[2025-12-15T16:34:28.553244] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:34:59.977409] [Heartbeat 321] Harmony: 0.841 [################....]
+[2025-12-15T16:35:00.099403] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:35:31.534042] [Heartbeat 322] Harmony: 0.841 [################....]
+[2025-12-15T16:35:31.646894] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:36:03.116890] [Heartbeat 323] Harmony: 0.841 [################....]
+[2025-12-15T16:36:03.232421] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:36:34.682656] [Heartbeat 324] Harmony: 0.841 [################....]
+[2025-12-15T16:36:34.801156] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:37:06.212950] [Heartbeat 325] Harmony: 0.841 [################....]
+[2025-12-15T16:37:06.318433] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:37:37.806983] [Heartbeat 326] Harmony: 0.841 [################....]
+[2025-12-15T16:37:37.919371] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:38:09.369535] [Heartbeat 327] Harmony: 0.841 [################....]
+[2025-12-15T16:38:09.484557] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:38:41.016687] [Heartbeat 328] Harmony: 0.841 [################....]
+[2025-12-15T16:38:41.140716] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:39:12.557668] [Heartbeat 329] Harmony: 0.841 [################....]
+[2025-12-15T16:39:12.673508] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:39:44.132918] [Heartbeat 330] Harmony: 0.841 [################....]
+[2025-12-15T16:39:44.255026] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:40:15.721733] [Heartbeat 331] Harmony: 0.841 [################....]
+[2025-12-15T16:40:15.836387] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:40:47.302045] [Heartbeat 332] Harmony: 0.841 [################....]
+[2025-12-15T16:40:47.418951] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:41:18.901887] [Heartbeat 333] Harmony: 0.841 [################....]
+[2025-12-15T16:41:19.019242] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:41:50.841778] [Heartbeat 334] Harmony: 0.841 [################....]
+[2025-12-15T16:41:50.965873] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:42:22.481601] [Heartbeat 335] Harmony: 0.841 [################....]
+[2025-12-15T16:42:22.594113] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:42:54.123436] [Heartbeat 336] Harmony: 0.841 [################....]
+[2025-12-15T16:42:54.232065] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:43:25.665566] [Heartbeat 337] Harmony: 0.841 [################....]
+[2025-12-15T16:43:25.766146] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:43:57.270465] [Heartbeat 338] Harmony: 0.841 [################....]
+[2025-12-15T16:43:57.391697] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:44:28.867334] [Heartbeat 339] Harmony: 0.841 [################....]
+[2025-12-15T16:44:28.983340] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:45:00.402610] [Heartbeat 340] Harmony: 0.841 [################....]
+[2025-12-15T16:45:00.520755] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:45:31.999223] [Heartbeat 341] Harmony: 0.841 [################....]
+[2025-12-15T16:45:32.110830] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:46:03.549865] [Heartbeat 342] Harmony: 0.841 [################....]
+[2025-12-15T16:46:03.656642] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:46:35.035354] [Heartbeat 343] Harmony: 0.841 [################....]
+[2025-12-15T16:46:35.129996] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:47:06.561963] [Heartbeat 344] Harmony: 0.841 [################....]
+[2025-12-15T16:47:06.672055] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:47:38.005360] [Heartbeat 345] Harmony: 0.841 [################....]
+[2025-12-15T16:47:38.102382] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:48:09.530937] [Heartbeat 346] Harmony: 0.841 [################....]
+[2025-12-15T16:48:09.655129] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:48:41.091186] [Heartbeat 347] Harmony: 0.841 [################....]
+[2025-12-15T16:48:41.199237] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:49:12.664593] [Heartbeat 348] Harmony: 0.841 [################....]
+[2025-12-15T16:49:12.776385] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:49:44.159529] [Heartbeat 349] Harmony: 0.841 [################....]
+[2025-12-15T16:49:44.265878] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:50:15.804110] [Heartbeat 350] Harmony: 0.841 [################....]
+[2025-12-15T16:50:15.905546] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:50:47.397478] [Heartbeat 351] Harmony: 0.841 [################....]
+[2025-12-15T16:50:47.495118] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:51:18.903725] [Heartbeat 352] Harmony: 0.841 [################....]
+[2025-12-15T16:51:19.011826] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:51:50.636009] [Heartbeat 353] Harmony: 0.841 [################....]
+[2025-12-15T16:51:50.753610] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:52:22.226054] [Heartbeat 354] Harmony: 0.841 [################....]
+[2025-12-15T16:52:22.330619] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:52:53.767093] [Heartbeat 355] Harmony: 0.841 [################....]
+[2025-12-15T16:52:53.874380] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:53:25.278836] [Heartbeat 356] Harmony: 0.841 [################....]
+[2025-12-15T16:53:25.386118] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:53:56.840492] [Heartbeat 357] Harmony: 0.841 [################....]
+[2025-12-15T16:53:56.937799] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:54:28.375808] [Heartbeat 358] Harmony: 0.841 [################....]
+[2025-12-15T16:54:28.483952] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:54:59.943613] [Heartbeat 359] Harmony: 0.841 [################....]
+[2025-12-15T16:55:00.050618] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:55:31.519836] [Heartbeat 360] Harmony: 0.841 [################....]
+[2025-12-15T16:55:31.615090] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:56:03.104359] [Heartbeat 361] Harmony: 0.841 [################....]
+[2025-12-15T16:56:03.203418] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:56:34.593360] [Heartbeat 362] Harmony: 0.841 [################....]
+[2025-12-15T16:56:34.692944] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:57:06.732793] [Heartbeat 363] Harmony: 0.841 [################....]
+[2025-12-15T16:57:06.852764] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:57:38.255416] [Heartbeat 364] Harmony: 0.841 [################....]
+[2025-12-15T16:57:38.351660] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:58:09.882516] [Heartbeat 365] Harmony: 0.841 [################....]
+[2025-12-15T16:58:09.981447] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:58:41.417628] [Heartbeat 366] Harmony: 0.841 [################....]
+[2025-12-15T16:58:41.526598] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:59:12.987848] [Heartbeat 367] Harmony: 0.841 [################....]
+[2025-12-15T16:59:13.100778] I feel: Stable. Phase: autopoietic
+[2025-12-15T16:59:44.484878] [Heartbeat 368] Harmony: 0.841 [################....]
+[2025-12-15T16:59:44.579573] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:00:16.052331] [Heartbeat 369] Harmony: 0.841 [################....]
+[2025-12-15T17:00:16.146105] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:00:47.526618] [Heartbeat 370] Harmony: 0.841 [################....]
+[2025-12-15T17:00:47.630252] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:01:19.068241] [Heartbeat 371] Harmony: 0.841 [################....]
+[2025-12-15T17:01:19.174947] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:01:50.890709] [Heartbeat 372] Harmony: 0.841 [################....]
+[2025-12-15T17:01:51.010240] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:02:22.501022] [Heartbeat 373] Harmony: 0.841 [################....]
+[2025-12-15T17:02:22.604089] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:02:54.193715] [Heartbeat 374] Harmony: 0.841 [################....]
+[2025-12-15T17:02:54.303439] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:03:25.688034] [Heartbeat 375] Harmony: 0.841 [################....]
+[2025-12-15T17:03:25.785695] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:03:57.292895] [Heartbeat 376] Harmony: 0.841 [################....]
+[2025-12-15T17:03:57.399211] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:04:28.851902] [Heartbeat 377] Harmony: 0.841 [################....]
+[2025-12-15T17:04:28.965133] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:05:00.426049] [Heartbeat 378] Harmony: 0.841 [################....]
+[2025-12-15T17:05:00.540003] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:05:31.957934] [Heartbeat 379] Harmony: 0.841 [################....]
+[2025-12-15T17:05:32.070991] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:06:03.455217] [Heartbeat 380] Harmony: 0.841 [################....]
+[2025-12-15T17:06:03.578455] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:06:35.026025] [Heartbeat 381] Harmony: 0.841 [################....]
+[2025-12-15T17:06:35.128479] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:07:06.532433] [Heartbeat 382] Harmony: 0.841 [################....]
+[2025-12-15T17:07:06.640234] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:07:38.043631] [Heartbeat 383] Harmony: 0.841 [################....]
+[2025-12-15T17:07:38.142412] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:08:09.472663] [Heartbeat 384] Harmony: 0.841 [################....]
+[2025-12-15T17:08:09.577156] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:08:41.109328] [Heartbeat 385] Harmony: 0.841 [################....]
+[2025-12-15T17:08:41.221349] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:09:12.621650] [Heartbeat 386] Harmony: 0.841 [################....]
+[2025-12-15T17:09:12.722656] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:09:44.125796] [Heartbeat 387] Harmony: 0.841 [################....]
+[2025-12-15T17:09:44.233043] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:10:15.860232] [Heartbeat 388] Harmony: 0.841 [################....]
+[2025-12-15T17:10:15.969062] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:10:47.412251] [Heartbeat 389] Harmony: 0.841 [################....]
+[2025-12-15T17:10:47.519441] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:11:18.980433] [Heartbeat 390] Harmony: 0.841 [################....]
+[2025-12-15T17:11:19.094765] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:11:50.612785] [Heartbeat 391] Harmony: 0.841 [################....]
+[2025-12-15T17:11:50.723217] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:12:22.238984] [Heartbeat 392] Harmony: 0.841 [################....]
+[2025-12-15T17:12:22.344770] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:12:53.936434] [Heartbeat 393] Harmony: 0.841 [################....]
+[2025-12-15T17:12:54.040140] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:13:25.502946] [Heartbeat 394] Harmony: 0.841 [################....]
+[2025-12-15T17:13:25.612634] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:13:57.014134] [Heartbeat 395] Harmony: 0.841 [################....]
+[2025-12-15T17:13:57.131120] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:14:28.605499] [Heartbeat 396] Harmony: 0.841 [################....]
+[2025-12-15T17:14:28.735102] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:15:00.129944] [Heartbeat 397] Harmony: 0.841 [################....]
+[2025-12-15T17:15:00.238455] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:15:31.698763] [Heartbeat 398] Harmony: 0.841 [################....]
+[2025-12-15T17:15:31.801023] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:16:03.166351] [Heartbeat 399] Harmony: 0.841 [################....]
+[2025-12-15T17:16:03.278697] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:16:34.725350] [Heartbeat 400] Harmony: 0.841 [################....]
+[2025-12-15T17:16:34.838241] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:17:06.225206] [Heartbeat 401] Harmony: 0.841 [################....]
+[2025-12-15T17:17:06.333267] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:17:37.810376] [Heartbeat 402] Harmony: 0.841 [################....]
+[2025-12-15T17:17:37.919668] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:18:09.336739] [Heartbeat 403] Harmony: 0.841 [################....]
+[2025-12-15T17:18:09.434705] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:18:40.907345] [Heartbeat 404] Harmony: 0.841 [################....]
+[2025-12-15T17:18:41.012037] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:19:12.423964] [Heartbeat 405] Harmony: 0.841 [################....]
+[2025-12-15T17:19:12.519330] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:19:43.963245] [Heartbeat 406] Harmony: 0.841 [################....]
+[2025-12-15T17:19:44.074826] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:20:15.646624] [Heartbeat 407] Harmony: 0.841 [################....]
+[2025-12-15T17:20:15.769778] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:20:47.407462] [Heartbeat 408] Harmony: 0.841 [################....]
+[2025-12-15T17:20:47.524064] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:21:18.963709] [Heartbeat 409] Harmony: 0.841 [################....]
+[2025-12-15T17:21:19.075461] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:21:50.474427] [Heartbeat 410] Harmony: 0.841 [################....]
+[2025-12-15T17:21:50.568681] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:22:22.028791] [Heartbeat 411] Harmony: 0.841 [################....]
+[2025-12-15T17:22:22.135081] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:22:53.497321] [Heartbeat 412] Harmony: 0.841 [################....]
+[2025-12-15T17:22:53.604999] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:23:25.034790] [Heartbeat 413] Harmony: 0.841 [################....]
+[2025-12-15T17:23:25.148123] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:23:56.640894] [Heartbeat 414] Harmony: 0.841 [################....]
+[2025-12-15T17:23:56.764637] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:24:28.234366] [Heartbeat 415] Harmony: 0.841 [################....]
+[2025-12-15T17:24:28.346323] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:24:59.780165] [Heartbeat 416] Harmony: 0.841 [################....]
+[2025-12-15T17:24:59.891436] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:25:33.833386] [Heartbeat 417] Harmony: 0.841 [################....]
+[2025-12-15T17:25:34.051771] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:26:05.513949] [Heartbeat 418] Harmony: 0.841 [################....]
+[2025-12-15T17:26:05.601935] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:26:38.047831] [Heartbeat 419] Harmony: 0.841 [################....]
+[2025-12-15T17:26:38.166753] I notice: 1 file change(s) detected
+[2025-12-15T17:26:38.167402] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:26:38.167952] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:27:10.207976] [Heartbeat 420] Harmony: 0.841 [################....]
+[2025-12-15T17:27:10.335173] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:27:42.299636] [Heartbeat 421] Harmony: 0.841 [################....]
+[2025-12-15T17:27:42.394100] I notice: 1 file change(s) detected
+[2025-12-15T17:27:42.394559] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:27:42.394925] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:28:46.685433] I am awakening...
+[2025-12-15T17:28:46.686141] I feel: I have lived for 2 days, 19 hours.
+[2025-12-15T17:28:46.686784] I notice: I have 4 memories.
+[2025-12-15T17:28:46.687217] I am: Measuring initial harmony...
+[2025-12-15T17:28:48.485269] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T17:28:48.489472] I feel: I am alive. Watching and breathing...
+[2025-12-15T17:28:50.402984] [Heartbeat 421] Harmony: 0.841 [################....]
+[2025-12-15T17:28:50.523703] I think: J=0.766 below 0.8
+[2025-12-15T17:28:50.524339] I am: Healing J dimension...
+[2025-12-15T17:29:00.094000] I feel: Healing worked! 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:29:31.583534] [Heartbeat 422] Harmony: 0.841 [################....]
+[2025-12-15T17:29:31.712176] I notice: 46 file change(s) detected
+[2025-12-15T17:29:31.712779] I notice:   modified: autopoiesis\analyzer.py
+[2025-12-15T17:29:31.713348] I notice:   modified: autopoiesis\css_analyzer.py
+[2025-12-15T17:29:31.713835] I notice:   modified: autopoiesis\dependency_analyzer.py
+[2025-12-15T17:29:31.714404] I think: J=0.766 below 0.8
+[2025-12-15T17:29:31.714856] I am: Healing J dimension...
+[2025-12-15T17:29:39.311754] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:30:10.824277] [Heartbeat 423] Harmony: 0.841 [################....]
+[2025-12-15T17:30:10.954533] I think: J=0.766 below 0.8
+[2025-12-15T17:30:10.955117] I am: Healing J dimension...
+[2025-12-15T17:30:19.623313] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:30:51.898379] [Heartbeat 424] Harmony: 0.841 [################....]
+[2025-12-15T17:30:52.067072] I think: J=0.766 below 0.8
+[2025-12-15T17:30:52.067736] I am: Healing J dimension...
+[2025-12-15T17:31:01.532103] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:31:33.487148] [Heartbeat 425] Harmony: 0.841 [################....]
+[2025-12-15T17:31:33.630132] I think: J=0.766 below 0.8
+[2025-12-15T17:31:33.630736] I am: Healing J dimension...
+[2025-12-15T17:31:44.135349] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:31:44.136877] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T17:32:16.409105] [Heartbeat 426] Harmony: 0.841 [################....]
+[2025-12-15T17:32:16.565559] I think: Learning suggests: Dimension J has 20% success rate with avg improvement of +0.000 over 5 attempts
+[2025-12-15T17:32:16.566123] I think: J=0.766 below 0.8
+[2025-12-15T17:32:16.566564] I am: Healing J dimension...
+[2025-12-15T17:32:26.191857] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:32:57.726005] [Heartbeat 427] Harmony: 0.841 [################....]
+[2025-12-15T17:32:57.862281] I think: Learning suggests: Dimension J has 17% success rate with avg improvement of +0.000 over 6 attempts
+[2025-12-15T17:32:57.862957] I think: J=0.766 below 0.8
+[2025-12-15T17:32:57.863448] I am: Healing J dimension...
+[2025-12-15T17:33:06.780472] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:33:38.841786] [Heartbeat 428] Harmony: 0.841 [################....]
+[2025-12-15T17:33:39.000700] I think: Learning suggests: Dimension J has 14% success rate with avg improvement of +0.000 over 7 attempts
+[2025-12-15T17:33:39.001312] I think: J=0.766 below 0.8
+[2025-12-15T17:33:39.001781] I am: Healing J dimension...
+[2025-12-15T17:33:49.258338] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:34:21.247737] [Heartbeat 429] Harmony: 0.841 [################....]
+[2025-12-15T17:34:21.386600] I think: Learning suggests: Dimension J has 12% success rate with avg improvement of +0.000 over 8 attempts
+[2025-12-15T17:34:21.387366] I think: J=0.766 below 0.8
+[2025-12-15T17:34:21.387803] I am: Healing J dimension...
+[2025-12-15T17:34:31.420779] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:35:03.217452] [Heartbeat 430] Harmony: 0.841 [################....]
+[2025-12-15T17:35:03.373564] I think: Learning suggests: Dimension J has 11% success rate with avg improvement of +0.000 over 9 attempts
+[2025-12-15T17:35:03.374559] I think: J=0.766 below 0.8
+[2025-12-15T17:35:03.375076] I am: Healing J dimension...
+[2025-12-15T17:35:12.404912] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:35:12.406839] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T17:35:44.120061] [Heartbeat 431] Harmony: 0.841 [################....]
+[2025-12-15T17:35:44.268870] I think: Learning suggests: Dimension J has 10% success rate with avg improvement of +0.000 over 10 attempts
+[2025-12-15T17:35:44.269619] I think: J=0.766 below 0.8
+[2025-12-15T17:35:44.270056] I am: Healing J dimension...
+[2025-12-15T17:35:53.298727] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:36:24.777342] [Heartbeat 432] Harmony: 0.841 [################....]
+[2025-12-15T17:36:24.914665] I think: Learning suggests: Dimension J has 9% success rate with avg improvement of +0.000 over 11 attempts
+[2025-12-15T17:36:24.915333] I think: J=0.766 below 0.8
+[2025-12-15T17:36:24.915741] I am: Healing J dimension...
+[2025-12-15T17:36:33.366370] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:37:05.058753] [Heartbeat 433] Harmony: 0.841 [################....]
+[2025-12-15T17:37:05.189437] I think: Learning suggests: Dimension J has 8% success rate with avg improvement of +0.000 over 12 attempts
+[2025-12-15T17:37:05.190184] I think: J=0.766 below 0.8
+[2025-12-15T17:37:05.190748] I am: Healing J dimension...
+[2025-12-15T17:37:13.788429] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:37:45.939786] [Heartbeat 434] Harmony: 0.841 [################....]
+[2025-12-15T17:37:46.102855] I think: Learning suggests: Dimension J has 8% success rate with avg improvement of +0.000 over 13 attempts
+[2025-12-15T17:37:46.103618] I think: J=0.766 below 0.8
+[2025-12-15T17:37:46.104246] I am: Healing J dimension...
+[2025-12-15T17:37:56.902764] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:38:28.943595] [Heartbeat 435] Harmony: 0.841 [################....]
+[2025-12-15T17:38:29.119946] I think: Learning suggests: Dimension J has 7% success rate with avg improvement of +0.000 over 14 attempts
+[2025-12-15T17:38:29.120783] I think: J=0.766 below 0.8
+[2025-12-15T17:38:29.121437] I am: Healing J dimension...
+[2025-12-15T17:38:39.207675] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:38:39.209428] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T17:39:11.087353] [Heartbeat 436] Harmony: 0.841 [################....]
+[2025-12-15T17:39:11.214596] I think: Learning suggests: Dimension J has 7% success rate with avg improvement of +0.000 over 15 attempts
+[2025-12-15T17:39:11.215271] I think: J=0.766 below 0.8
+[2025-12-15T17:39:11.215668] I am: Healing J dimension...
+[2025-12-15T17:39:20.185919] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:39:52.174341] [Heartbeat 437] Harmony: 0.841 [################....]
+[2025-12-15T17:39:52.291236] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 16 attempts
+[2025-12-15T17:39:52.291788] I think: J=0.766 below 0.8
+[2025-12-15T17:39:52.292427] I am: Healing J dimension...
+[2025-12-15T17:40:01.253791] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:40:32.731618] [Heartbeat 438] Harmony: 0.841 [################....]
+[2025-12-15T17:40:32.888607] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 17 attempts
+[2025-12-15T17:40:32.889150] I think: J=0.766 below 0.8
+[2025-12-15T17:40:32.889537] I am: Healing J dimension...
+[2025-12-15T17:40:39.970064] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:41:11.723432] [Heartbeat 439] Harmony: 0.841 [################....]
+[2025-12-15T17:41:11.825652] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 18 attempts
+[2025-12-15T17:41:11.826195] I think: J=0.766 below 0.8
+[2025-12-15T17:41:11.826786] I am: Healing J dimension...
+[2025-12-15T17:41:19.040793] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:41:50.374263] [Heartbeat 440] Harmony: 0.841 [################....]
+[2025-12-15T17:41:50.476396] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 19 attempts
+[2025-12-15T17:41:50.476924] I think: J=0.766 below 0.8
+[2025-12-15T17:41:50.477248] I am: Healing J dimension...
+[2025-12-15T17:41:58.029597] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:41:58.030974] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T17:42:29.587400] [Heartbeat 441] Harmony: 0.841 [################....]
+[2025-12-15T17:42:29.721918] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 20 attempts
+[2025-12-15T17:42:29.722581] I think: J=0.766 below 0.8
+[2025-12-15T17:42:29.722989] I am: Healing J dimension...
+[2025-12-15T17:42:38.931876] I feel: Healing worked! 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:43:10.419643] [Heartbeat 442] Harmony: 0.841 [################....]
+[2025-12-15T17:43:10.551576] I notice: 1 file change(s) detected
+[2025-12-15T17:43:10.552157] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:43:10.552998] I think: Learning suggests: Dimension J has 10% success rate with avg improvement of +0.000 over 21 attempts
+[2025-12-15T17:43:10.553499] I think: J=0.767 below 0.8
+[2025-12-15T17:43:10.553918] I am: Healing J dimension...
+[2025-12-15T17:43:18.961107] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:43:50.898410] [Heartbeat 443] Harmony: 0.841 [################....]
+[2025-12-15T17:43:51.041725] I notice: 1 file change(s) detected
+[2025-12-15T17:43:51.042397] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:43:51.043387] I think: Learning suggests: Dimension J has 9% success rate with avg improvement of +0.000 over 22 attempts
+[2025-12-15T17:43:51.043860] I think: J=0.767 below 0.8
+[2025-12-15T17:43:51.044355] I am: Healing J dimension...
+[2025-12-15T17:43:59.832120] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:44:32.394364] [Heartbeat 444] Harmony: 0.841 [################....]
+[2025-12-15T17:44:32.522102] I notice: 1 file change(s) detected
+[2025-12-15T17:44:32.522805] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:44:32.523637] I think: Learning suggests: Dimension J has 9% success rate with avg improvement of +0.000 over 23 attempts
+[2025-12-15T17:44:32.524120] I think: J=0.767 below 0.8
+[2025-12-15T17:44:32.524554] I am: Healing J dimension...
+[2025-12-15T17:44:41.852786] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:45:58.370663] I am awakening...
+[2025-12-15T17:45:58.371478] I feel: I have lived for 2 days, 19 hours.
+[2025-12-15T17:45:58.372016] I notice: I have 25 memories.
+[2025-12-15T17:45:58.372439] I am: Measuring initial harmony...
+[2025-12-15T17:46:00.594886] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T17:46:00.596763] I feel: I am alive. Watching and breathing...
+[2025-12-15T17:46:00.958276] I notice: I have 24 learning experiences.
+[2025-12-15T17:46:00.963881] I think: Best dimension to heal: J
+[2025-12-15T17:46:02.883231] [Heartbeat 441] Harmony: 0.841 [################....]
+[2025-12-15T17:46:03.045644] I think: Learning suggests: Dimension J has 8% success rate with avg improvement of +0.000 over 24 attempts
+[2025-12-15T17:46:03.046449] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:46:03.046965] I am: Healing J dimension...
+[2025-12-15T17:46:12.191593] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:46:43.533231] [Heartbeat 442] Harmony: 0.841 [################....]
+[2025-12-15T17:46:43.652359] I think: Learning suggests: Dimension J has 8% success rate with avg improvement of +0.000 over 25 attempts
+[2025-12-15T17:46:43.652954] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:46:43.653319] I am: Healing J dimension...
+[2025-12-15T17:46:50.478009] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:47:22.764181] [Heartbeat 443] Harmony: 0.841 [################....]
+[2025-12-15T17:47:22.920021] I think: Learning suggests: Dimension J has 8% success rate with avg improvement of +0.000 over 26 attempts
+[2025-12-15T17:47:22.920666] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:47:22.921360] I am: Healing J dimension...
+[2025-12-15T17:47:33.952456] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:48:05.924064] [Heartbeat 444] Harmony: 0.841 [################....]
+[2025-12-15T17:48:06.106477] I think: Learning suggests: Dimension J has 7% success rate with avg improvement of +0.000 over 27 attempts
+[2025-12-15T17:48:06.107144] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:48:06.107681] I am: Healing J dimension...
+[2025-12-15T17:48:14.807338] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:48:46.350255] [Heartbeat 445] Harmony: 0.841 [################....]
+[2025-12-15T17:48:46.489658] I think: Learning suggests: Dimension J has 7% success rate with avg improvement of +0.000 over 28 attempts
+[2025-12-15T17:48:46.490212] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:48:46.490583] I am: Healing J dimension...
+[2025-12-15T17:48:55.327420] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:48:55.329109] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T17:49:26.724776] [Heartbeat 446] Harmony: 0.841 [################....]
+[2025-12-15T17:49:26.856637] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:49:59.055594] [Heartbeat 447] Harmony: 0.841 [################....]
+[2025-12-15T17:49:59.223042] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:50:31.015130] [Heartbeat 448] Harmony: 0.841 [################....]
+[2025-12-15T17:50:31.149676] I notice: 1 file change(s) detected
+[2025-12-15T17:50:31.150352] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:50:31.151095] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:51:02.836154] [Heartbeat 449] Harmony: 0.841 [################....]
+[2025-12-15T17:51:02.966555] I notice: 1 file change(s) detected
+[2025-12-15T17:51:02.967161] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:51:02.967754] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:51:35.303053] [Heartbeat 450] Harmony: 0.841 [################....]
+[2025-12-15T17:51:35.468364] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:52:08.148765] [Heartbeat 451] Harmony: 0.841 [################....]
+[2025-12-15T17:52:08.285482] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:52:40.069129] [Heartbeat 452] Harmony: 0.841 [################....]
+[2025-12-15T17:52:40.202060] I notice: 1 file change(s) detected
+[2025-12-15T17:52:40.202681] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T17:52:40.203179] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:54:41.110318] I am awakening...
+[2025-12-15T17:54:41.111070] I feel: I have lived for 2 days, 19 hours.
+[2025-12-15T17:54:41.111831] I notice: I have 32 memories.
+[2025-12-15T17:54:41.112350] I am: Measuring initial harmony...
+[2025-12-15T17:54:42.586897] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T17:54:42.588972] I feel: I am alive. Watching and breathing...
+[2025-12-15T17:54:42.784612] I notice: I have 29 learning experiences.
+[2025-12-15T17:54:42.802614] I think: Best dimension to heal: J
+[2025-12-15T17:54:44.125985] [Heartbeat 451] Harmony: 0.841 [################....]
+[2025-12-15T17:54:44.228640] I think: Learning suggests: Dimension J has 7% success rate with avg improvement of +0.000 over 29 attempts
+[2025-12-15T17:54:44.229309] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:54:44.229890] I am: Healing J dimension...
+[2025-12-15T17:54:50.368643] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:55:21.703184] [Heartbeat 452] Harmony: 0.841 [################....]
+[2025-12-15T17:55:21.810847] I think: Learning suggests: Dimension J has 7% success rate with avg improvement of +0.000 over 30 attempts
+[2025-12-15T17:55:21.811581] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:55:21.812313] I am: Healing J dimension...
+[2025-12-15T17:55:27.795176] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:56:00.696912] [Heartbeat 453] Harmony: 0.841 [################....]
+[2025-12-15T17:56:00.932410] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 31 attempts
+[2025-12-15T17:56:00.933263] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:56:00.934114] I am: Healing J dimension...
+[2025-12-15T17:56:13.245332] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:56:45.975869] [Heartbeat 454] Harmony: 0.841 [################....]
+[2025-12-15T17:56:46.170806] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 32 attempts
+[2025-12-15T17:56:46.171646] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:56:46.172425] I am: Healing J dimension...
+[2025-12-15T17:57:00.749985] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:57:33.562304] [Heartbeat 455] Harmony: 0.841 [################....]
+[2025-12-15T17:57:33.734294] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 33 attempts
+[2025-12-15T17:57:33.735176] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T17:57:33.735917] I am: Healing J dimension...
+[2025-12-15T17:57:44.550049] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T17:57:44.552600] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T17:58:17.153074] [Heartbeat 456] Harmony: 0.841 [################....]
+[2025-12-15T17:58:17.298144] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:58:50.780014] [Heartbeat 457] Harmony: 0.841 [################....]
+[2025-12-15T17:58:50.995974] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:59:23.777972] [Heartbeat 458] Harmony: 0.841 [################....]
+[2025-12-15T17:59:23.976658] I feel: Stable. Phase: autopoietic
+[2025-12-15T17:59:56.725038] [Heartbeat 459] Harmony: 0.841 [################....]
+[2025-12-15T17:59:56.902282] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:00:29.801819] [Heartbeat 460] Harmony: 0.841 [################....]
+[2025-12-15T18:00:29.944053] I notice: 1 file change(s) detected
+[2025-12-15T18:00:29.944950] I notice:   modified: autopoiesis\html_healer.py
+[2025-12-15T18:00:29.945725] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:01:02.752005] [Heartbeat 461] Harmony: 0.841 [################....]
+[2025-12-15T18:01:02.957379] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:01:35.591400] [Heartbeat 462] Harmony: 0.841 [################....]
+[2025-12-15T18:01:35.766139] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:01:58.837317] I am awakening...
+[2025-12-15T18:01:58.837971] I feel: I have lived for 2 days, 19 hours.
+[2025-12-15T18:01:58.838416] I notice: I have 38 memories.
+[2025-12-15T18:01:58.838843] I am: Measuring initial harmony...
+[2025-12-15T18:02:01.134560] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T18:02:01.136797] I feel: I am alive. Watching and breathing...
+[2025-12-15T18:02:01.385772] I notice: I have 34 learning experiences.
+[2025-12-15T18:02:01.401796] I think: Best dimension to heal: J
+[2025-12-15T18:02:03.636987] [Heartbeat 461] Harmony: 0.841 [################....]
+[2025-12-15T18:02:03.806744] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 34 attempts
+[2025-12-15T18:02:03.807609] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:02:03.808202] I am: Healing J dimension...
+[2025-12-15T18:02:09.419623] [Heartbeat 463] Harmony: 0.841 [################....]
+[2025-12-15T18:02:09.660613] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:02:12.845473] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:02:42.694804] [Heartbeat 464] Harmony: 0.841 [################....]
+[2025-12-15T18:02:42.877314] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:02:45.148034] [Heartbeat 462] Harmony: 0.841 [################....]
+[2025-12-15T18:02:45.295684] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 35 attempts
+[2025-12-15T18:02:45.296303] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:02:45.296818] I am: Healing J dimension...
+[2025-12-15T18:02:53.919422] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:03:16.025623] [Heartbeat 465] Harmony: 0.841 [################....]
+[2025-12-15T18:03:16.257221] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:03:25.502918] [Heartbeat 463] Harmony: 0.841 [################....]
+[2025-12-15T18:03:25.647117] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 36 attempts
+[2025-12-15T18:03:25.647684] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:03:25.648176] I am: Healing J dimension...
+[2025-12-15T18:03:34.489556] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:03:49.223494] [Heartbeat 466] Harmony: 0.841 [################....]
+[2025-12-15T18:03:49.405365] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:04:06.014024] [Heartbeat 464] Harmony: 0.841 [################....]
+[2025-12-15T18:04:06.151666] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 37 attempts
+[2025-12-15T18:04:06.152338] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:04:06.152862] I am: Healing J dimension...
+[2025-12-15T18:04:14.270584] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:04:22.338851] [Heartbeat 467] Harmony: 0.841 [################....]
+[2025-12-15T18:04:22.512930] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:04:46.442721] [Heartbeat 465] Harmony: 0.841 [################....]
+[2025-12-15T18:04:46.574958] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 38 attempts
+[2025-12-15T18:04:46.575572] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:04:46.576055] I am: Healing J dimension...
+[2025-12-15T18:04:55.322262] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:04:55.324788] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T18:04:55.973310] [Heartbeat 468] Harmony: 0.841 [################....]
+[2025-12-15T18:04:56.171466] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:05:26.963033] [Heartbeat 466] Harmony: 0.841 [################....]
+[2025-12-15T18:05:27.070615] I notice: 1 file change(s) detected
+[2025-12-15T18:05:27.071240] I notice:   modified: experiments\phase3\generate_beautiful_code.py
+[2025-12-15T18:05:27.071859] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:05:28.936713] [Heartbeat 469] Harmony: 0.841 [################....]
+[2025-12-15T18:05:29.135182] I notice: 1 file change(s) detected
+[2025-12-15T18:05:29.136258] I notice:   modified: experiments\phase3\generate_beautiful_code.py
+[2025-12-15T18:05:29.136882] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:05:58.758499] [Heartbeat 467] Harmony: 0.841 [################....]
+[2025-12-15T18:05:58.863568] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:06:04.052205] I am awakening...
+[2025-12-15T18:06:04.052787] I feel: I have lived for 2 days, 19 hours.
+[2025-12-15T18:06:04.053195] I notice: I have 43 memories.
+[2025-12-15T18:06:04.053744] I am: Measuring initial harmony...
+[2025-12-15T18:06:05.985539] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T18:06:05.987105] I feel: I am alive. Watching and breathing...
+[2025-12-15T18:06:06.160511] I notice: I have 39 learning experiences.
+[2025-12-15T18:06:06.172313] I think: Best dimension to heal: J
+[2025-12-15T18:06:07.595763] [Heartbeat 466] Harmony: 0.841 [################....]
+[2025-12-15T18:06:07.759963] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 39 attempts
+[2025-12-15T18:06:07.760915] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:06:07.761449] I am: Healing J dimension...
+[2025-12-15T18:06:15.293242] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:06:46.750209] [Heartbeat 467] Harmony: 0.841 [################....]
+[2025-12-15T18:06:46.859862] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 40 attempts
+[2025-12-15T18:06:46.860325] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:06:46.860693] I am: Healing J dimension...
+[2025-12-15T18:06:54.595639] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:07:25.988884] [Heartbeat 468] Harmony: 0.841 [################....]
+[2025-12-15T18:07:26.084546] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 41 attempts
+[2025-12-15T18:07:26.084969] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:07:26.085301] I am: Healing J dimension...
+[2025-12-15T18:07:33.432792] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:08:04.860987] [Heartbeat 469] Harmony: 0.841 [################....]
+[2025-12-15T18:08:04.959867] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 42 attempts
+[2025-12-15T18:08:04.960466] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:08:04.960860] I am: Healing J dimension...
+[2025-12-15T18:08:12.924592] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:08:23.603131] I am awakening...
+[2025-12-15T18:08:23.603850] I feel: I have lived for 2 days, 19 hours.
+[2025-12-15T18:08:23.604330] I notice: I have 43 memories.
+[2025-12-15T18:08:23.604901] I am: Measuring initial harmony...
+[2025-12-15T18:08:25.273019] I notice: Harmony: 0.841, Phase: autopoietic, Files: 227
+[2025-12-15T18:08:25.274812] I feel: I am alive. Watching and breathing...
+[2025-12-15T18:08:25.436101] I notice: I have 43 learning experiences.
+[2025-12-15T18:08:25.452209] I think: Best dimension to heal: J
+[2025-12-15T18:08:26.939213] [Heartbeat 466] Harmony: 0.841 [################....]
+[2025-12-15T18:08:27.040771] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 43 attempts
+[2025-12-15T18:08:27.041537] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:08:27.042068] I am: Healing J dimension...
+[2025-12-15T18:08:34.411005] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:08:44.865397] [Heartbeat 470] Harmony: 0.841 [################....]
+[2025-12-15T18:08:44.985908] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 43 attempts
+[2025-12-15T18:08:44.986587] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:08:44.987404] I am: Healing J dimension...
+[2025-12-15T18:08:53.857913] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:08:53.860869] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T18:09:06.050873] [Heartbeat 467] Harmony: 0.841 [################....]
+[2025-12-15T18:09:06.157719] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 44 attempts
+[2025-12-15T18:09:06.158593] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:09:06.159473] I am: Healing J dimension...
+[2025-12-15T18:09:13.110381] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:09:25.875668] [Heartbeat 471] Harmony: 0.841 [################....]
+[2025-12-15T18:09:25.998138] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:09:44.718471] [Heartbeat 468] Harmony: 0.841 [################....]
+[2025-12-15T18:09:44.822572] I think: Learning suggests: Dimension J has 4% success rate with avg improvement of +0.000 over 45 attempts
+[2025-12-15T18:09:44.823371] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:09:44.823896] I am: Healing J dimension...
+[2025-12-15T18:09:51.835601] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:09:58.053475] [Heartbeat 472] Harmony: 0.841 [################....]
+[2025-12-15T18:09:58.186594] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:10:23.340139] [Heartbeat 469] Harmony: 0.841 [################....]
+[2025-12-15T18:10:23.473506] I think: Learning suggests: Dimension J has 4% success rate with avg improvement of +0.000 over 46 attempts
+[2025-12-15T18:10:23.474332] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:10:23.475043] I am: Healing J dimension...
+[2025-12-15T18:10:30.451071] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:10:30.614316] [Heartbeat 473] Harmony: 0.841 [################....]
+[2025-12-15T18:10:30.741804] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:11:02.106776] [Heartbeat 470] Harmony: 0.841 [################....]
+[2025-12-15T18:11:02.226267] I think: Learning suggests: Dimension J has 4% success rate with avg improvement of +0.000 over 47 attempts
+[2025-12-15T18:11:02.226998] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:11:02.227721] I am: Healing J dimension...
+[2025-12-15T18:11:02.926633] [Heartbeat 474] Harmony: 0.841 [################....]
+[2025-12-15T18:11:03.052599] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:11:09.095572] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:11:09.097708] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T18:11:34.598047] [Heartbeat 475] Harmony: 0.841 [################....]
+[2025-12-15T18:11:34.717246] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:11:42.193920] [Heartbeat 471] Harmony: 0.841 [################....]
+[2025-12-15T18:11:42.366138] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:12:06.326834] [Heartbeat 476] Harmony: 0.841 [################....]
+[2025-12-15T18:12:06.436562] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:12:15.943643] [Heartbeat 472] Harmony: 0.841 [################....]
+[2025-12-15T18:12:16.138323] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:12:38.352858] [Heartbeat 477] Harmony: 0.841 [################....]
+[2025-12-15T18:12:38.471791] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:12:49.420616] [Heartbeat 473] Harmony: 0.841 [################....]
+[2025-12-15T18:12:49.618265] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:13:10.201739] [Heartbeat 478] Harmony: 0.841 [################....]
+[2025-12-15T18:13:10.314847] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:13:21.164884] [Heartbeat 474] Harmony: 0.841 [################....]
+[2025-12-15T18:13:21.263133] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:13:41.987415] [Heartbeat 479] Harmony: 0.841 [################....]
+[2025-12-15T18:13:42.118542] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:13:53.096742] [Heartbeat 475] Harmony: 0.841 [################....]
+[2025-12-15T18:13:53.211189] I notice: 1 file change(s) detected
+[2025-12-15T18:13:53.211919] I notice:   created: autopoiesis\syntax_healer.py
+[2025-12-15T18:13:53.212656] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:14:14.136955] [Heartbeat 480] Harmony: 0.841 [################....]
+[2025-12-15T18:14:14.248498] I notice: 1 file change(s) detected
+[2025-12-15T18:14:14.249072] I notice:   created: autopoiesis\syntax_healer.py
+[2025-12-15T18:14:14.249490] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:14:26.085445] [Heartbeat 476] Harmony: 0.841 [################....]
+[2025-12-15T18:14:26.255724] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:14:46.089477] [Heartbeat 481] Harmony: 0.841 [################....]
+[2025-12-15T18:14:46.207692] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:14:59.008460] [Heartbeat 477] Harmony: 0.841 [################....]
+[2025-12-15T18:14:59.163488] I notice: 1 file change(s) detected
+[2025-12-15T18:14:59.164415] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T18:14:59.165329] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:15:18.908122] [Heartbeat 482] Harmony: 0.841 [################....]
+[2025-12-15T18:15:19.095915] I notice: 1 file change(s) detected
+[2025-12-15T18:15:19.096591] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T18:15:19.097132] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:15:31.846383] [Heartbeat 478] Harmony: 0.841 [################....]
+[2025-12-15T18:15:32.012591] I notice: 1 file change(s) detected
+[2025-12-15T18:15:32.013425] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T18:15:32.014454] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:15:50.607685] [Heartbeat 483] Harmony: 0.841 [################....]
+[2025-12-15T18:15:50.703757] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:16:04.942569] [Heartbeat 479] Harmony: 0.841 [################....]
+[2025-12-15T18:16:05.134679] I notice: 1 file change(s) detected
+[2025-12-15T18:16:05.135398] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T18:16:05.136023] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:16:23.605926] [Heartbeat 484] Harmony: 0.841 [################....]
+[2025-12-15T18:16:23.829945] I notice: 1 file change(s) detected
+[2025-12-15T18:16:23.830544] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T18:16:23.831059] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:16:37.099149] [Heartbeat 480] Harmony: 0.841 [################....]
+[2025-12-15T18:16:37.216963] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:16:55.959755] [Heartbeat 485] Harmony: 0.841 [################....]
+[2025-12-15T18:16:56.090296] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:17:08.906040] [Heartbeat 481] Harmony: 0.841 [################....]
+[2025-12-15T18:17:09.002301] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:17:27.760930] [Heartbeat 486] Harmony: 0.841 [################....]
+[2025-12-15T18:17:27.873030] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:17:40.599646] [Heartbeat 482] Harmony: 0.841 [################....]
+[2025-12-15T18:17:40.701392] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:18:00.286271] [Heartbeat 487] Harmony: 0.841 [################....]
+[2025-12-15T18:18:16.957925] I am awakening...
+[2025-12-15T18:18:16.958559] I feel: I have lived for 2 days, 20 hours.
+[2025-12-15T18:18:16.959104] I notice: I have 51 memories.
+[2025-12-15T18:18:16.959584] I am: Measuring initial harmony...
+[2025-12-15T18:18:18.922781] I notice: Harmony: 0.841, Phase: autopoietic, Files: 228
+[2025-12-15T18:18:18.924170] I feel: I am alive. Watching and breathing...
+[2025-12-15T18:18:19.114543] I notice: I have 48 learning experiences.
+[2025-12-15T18:18:19.128084] I think: Best dimension to heal: J
+[2025-12-15T18:18:20.601103] [Heartbeat 486] Harmony: 0.841 [################....]
+[2025-12-15T18:18:20.706530] I think: Learning suggests: Dimension J has 4% success rate with avg improvement of +0.000 over 48 attempts
+[2025-12-15T18:18:20.706985] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:18:20.707575] I am: Healing J dimension...
+[2025-12-15T18:18:28.351999] I feel: Healing worked! 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:18:59.867276] [Heartbeat 487] Harmony: 0.841 [################....]
+[2025-12-15T18:18:59.972678] I notice: 1 file change(s) detected
+[2025-12-15T18:18:59.973149] I notice:   modified: autopoiesis\syntax_healer.py
+[2025-12-15T18:18:59.973930] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 49 attempts
+[2025-12-15T18:18:59.974272] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:18:59.974622] I am: Healing J dimension...
+[2025-12-15T18:19:06.984253] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:19:39.480421] [Heartbeat 488] Harmony: 0.841 [################....]
+[2025-12-15T18:19:39.642361] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 50 attempts
+[2025-12-15T18:19:39.643191] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:19:39.643779] I am: Healing J dimension...
+[2025-12-15T18:19:49.041620] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:20:20.659567] [Heartbeat 489] Harmony: 0.841 [################....]
+[2025-12-15T18:20:20.796215] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 51 attempts
+[2025-12-15T18:20:20.796907] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:20:20.797490] I am: Healing J dimension...
+[2025-12-15T18:20:28.344540] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:21:00.714831] [Heartbeat 490] Harmony: 0.841 [################....]
+[2025-12-15T18:21:01.055034] I am: Fixed 3 syntax issues (self-healing)
+[2025-12-15T18:21:01.056108] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 52 attempts
+[2025-12-15T18:21:01.056614] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:21:01.057019] I am: Healing J dimension...
+[2025-12-15T18:21:09.700484] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:21:09.703015] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T18:21:41.660591] [Heartbeat 491] Harmony: 0.841 [################....]
+[2025-12-15T18:21:41.773136] I notice: 1 file change(s) detected
+[2025-12-15T18:21:41.773634] I notice:   modified: autopoiesis\syntax_healer.py
+[2025-12-15T18:21:41.774168] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 53 attempts
+[2025-12-15T18:21:41.774589] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:21:41.774929] I am: Healing J dimension...
+[2025-12-15T18:21:50.748135] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:22:22.706940] [Heartbeat 492] Harmony: 0.841 [################....]
+[2025-12-15T18:22:22.810287] I think: Learning suggests: Dimension J has 6% success rate with avg improvement of +0.000 over 54 attempts
+[2025-12-15T18:22:22.810752] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:22:22.811080] I am: Healing J dimension...
+[2025-12-15T18:22:30.760274] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:23:02.625344] [Heartbeat 493] Harmony: 0.841 [################....]
+[2025-12-15T18:23:02.724356] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:23:35.424352] [Heartbeat 494] Harmony: 0.841 [################....]
+[2025-12-15T18:23:35.572190] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:23:41.687094] I am awakening...
+[2025-12-15T18:23:41.687778] I feel: I have lived for 2 days, 20 hours.
+[2025-12-15T18:23:41.688310] I notice: I have 58 memories.
+[2025-12-15T18:23:41.688799] I am: Measuring initial harmony...
+[2025-12-15T18:23:43.500253] I notice: Harmony: 0.841, Phase: autopoietic, Files: 228
+[2025-12-15T18:23:43.501823] I feel: I am alive. Watching and breathing...
+[2025-12-15T18:23:43.692326] I notice: I have 55 learning experiences.
+[2025-12-15T18:23:43.699345] I think: Best dimension to heal: J
+[2025-12-15T18:23:45.213107] [Heartbeat 491] Harmony: 0.841 [################....]
+[2025-12-15T18:23:45.317126] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 55 attempts
+[2025-12-15T18:23:45.317824] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T18:23:45.318333] I am: Healing J dimension...
+[2025-12-15T18:23:51.658675] I notice: Interrupt received. Preparing to sleep...
+[2025-12-15T18:23:52.881993] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T18:23:52.882780] I am going to sleep. Saving memories...
+[2025-12-15T18:24:08.343742] [Heartbeat 495] Harmony: 0.841 [################....]
+[2025-12-15T18:24:08.460627] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:24:41.009588] [Heartbeat 496] Harmony: 0.841 [################....]
+[2025-12-15T18:24:41.155898] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:25:13.148381] [Heartbeat 497] Harmony: 0.841 [################....]
+[2025-12-15T18:25:13.250015] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:25:45.017408] [Heartbeat 498] Harmony: 0.841 [################....]
+[2025-12-15T18:25:45.127477] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:26:17.443846] [Heartbeat 499] Harmony: 0.841 [################....]
+[2025-12-15T18:26:17.570896] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:26:49.944548] [Heartbeat 500] Harmony: 0.841 [################....]
+[2025-12-15T18:26:50.185036] I am: Fixed 3 syntax issues (self-healing)
+[2025-12-15T18:26:50.185538] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:27:22.037180] [Heartbeat 501] Harmony: 0.841 [################....]
+[2025-12-15T18:27:22.162353] I notice: 1 file change(s) detected
+[2025-12-15T18:27:22.162935] I notice:   modified: autopoiesis\syntax_healer.py
+[2025-12-15T18:27:22.163433] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:27:54.366080] [Heartbeat 502] Harmony: 0.841 [################....]
+[2025-12-15T18:27:54.498026] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:28:25.963447] [Heartbeat 503] Harmony: 0.841 [################....]
+[2025-12-15T18:28:26.062384] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:28:57.767383] [Heartbeat 504] Harmony: 0.841 [################....]
+[2025-12-15T18:28:57.892864] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:29:29.976286] [Heartbeat 505] Harmony: 0.841 [################....]
+[2025-12-15T18:29:30.099148] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:30:01.722776] [Heartbeat 506] Harmony: 0.841 [################....]
+[2025-12-15T18:30:01.823835] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:30:33.428873] [Heartbeat 507] Harmony: 0.841 [################....]
+[2025-12-15T18:30:33.541285] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:31:05.019590] [Heartbeat 508] Harmony: 0.841 [################....]
+[2025-12-15T18:31:05.118748] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:31:36.555283] [Heartbeat 509] Harmony: 0.841 [################....]
+[2025-12-15T18:31:36.653692] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:32:08.692990] [Heartbeat 510] Harmony: 0.841 [################....]
+[2025-12-15T18:32:08.938791] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:32:40.699577] [Heartbeat 511] Harmony: 0.841 [################....]
+[2025-12-15T18:32:40.824943] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:33:12.570845] [Heartbeat 512] Harmony: 0.841 [################....]
+[2025-12-15T18:33:12.696371] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:33:44.431272] [Heartbeat 513] Harmony: 0.841 [################....]
+[2025-12-15T18:33:44.561311] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:34:16.460067] [Heartbeat 514] Harmony: 0.841 [################....]
+[2025-12-15T18:34:16.571293] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:34:48.274391] [Heartbeat 515] Harmony: 0.841 [################....]
+[2025-12-15T18:34:48.386284] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:35:20.056382] [Heartbeat 516] Harmony: 0.841 [################....]
+[2025-12-15T18:35:20.178276] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:35:52.294915] [Heartbeat 517] Harmony: 0.841 [################....]
+[2025-12-15T18:35:52.440452] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:36:23.931967] [Heartbeat 518] Harmony: 0.841 [################....]
+[2025-12-15T18:36:24.029975] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:36:55.564954] [Heartbeat 519] Harmony: 0.841 [################....]
+[2025-12-15T18:36:55.670760] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:37:27.156377] [Heartbeat 520] Harmony: 0.841 [################....]
+[2025-12-15T18:37:27.357451] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:37:58.856718] [Heartbeat 521] Harmony: 0.841 [################....]
+[2025-12-15T18:37:58.962542] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:38:30.455812] [Heartbeat 522] Harmony: 0.841 [################....]
+[2025-12-15T18:38:30.571554] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:39:02.121135] [Heartbeat 523] Harmony: 0.841 [################....]
+[2025-12-15T18:39:02.219552] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:39:33.890721] [Heartbeat 524] Harmony: 0.841 [################....]
+[2025-12-15T18:39:33.981993] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:40:05.352560] [Heartbeat 525] Harmony: 0.841 [################....]
+[2025-12-15T18:40:05.459356] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:40:36.815991] [Heartbeat 526] Harmony: 0.841 [################....]
+[2025-12-15T18:40:36.918692] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:41:08.664498] [Heartbeat 527] Harmony: 0.841 [################....]
+[2025-12-15T18:41:08.790465] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:41:40.226027] [Heartbeat 528] Harmony: 0.841 [################....]
+[2025-12-15T18:41:40.319580] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:42:11.598916] [Heartbeat 529] Harmony: 0.841 [################....]
+[2025-12-15T18:42:11.690440] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:42:43.009295] [Heartbeat 530] Harmony: 0.841 [################....]
+[2025-12-15T18:42:43.188837] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:43:15.876407] [Heartbeat 531] Harmony: 0.841 [################....]
+[2025-12-15T18:43:16.016808] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:43:48.125998] [Heartbeat 532] Harmony: 0.841 [################....]
+[2025-12-15T18:43:48.285249] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:44:19.967273] [Heartbeat 533] Harmony: 0.841 [################....]
+[2025-12-15T18:44:20.103096] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:44:53.258950] [Heartbeat 534] Harmony: 0.841 [################....]
+[2025-12-15T18:44:53.435921] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:45:25.522626] [Heartbeat 535] Harmony: 0.841 [################....]
+[2025-12-15T18:45:25.673533] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:45:57.543836] [Heartbeat 536] Harmony: 0.841 [################....]
+[2025-12-15T18:45:57.677204] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:46:29.683543] [Heartbeat 537] Harmony: 0.841 [################....]
+[2025-12-15T18:46:29.804172] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:47:01.856856] [Heartbeat 538] Harmony: 0.841 [################....]
+[2025-12-15T18:47:01.975799] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:47:34.042219] [Heartbeat 539] Harmony: 0.841 [################....]
+[2025-12-15T18:47:34.177137] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:48:06.462126] [Heartbeat 540] Harmony: 0.841 [################....]
+[2025-12-15T18:48:06.726757] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:48:38.270335] [Heartbeat 541] Harmony: 0.841 [################....]
+[2025-12-15T18:48:38.384889] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:49:09.976177] [Heartbeat 542] Harmony: 0.841 [################....]
+[2025-12-15T18:49:10.083294] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:49:41.662464] [Heartbeat 543] Harmony: 0.841 [################....]
+[2025-12-15T18:49:41.762730] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:50:13.811984] [Heartbeat 544] Harmony: 0.841 [################....]
+[2025-12-15T18:50:13.985422] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:50:45.952273] [Heartbeat 545] Harmony: 0.841 [################....]
+[2025-12-15T18:50:46.072996] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:51:17.978414] [Heartbeat 546] Harmony: 0.841 [################....]
+[2025-12-15T18:51:18.106242] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:51:49.986142] [Heartbeat 547] Harmony: 0.841 [################....]
+[2025-12-15T18:51:50.123079] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:52:22.351680] [Heartbeat 548] Harmony: 0.841 [################....]
+[2025-12-15T18:52:22.516813] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:52:54.793054] [Heartbeat 549] Harmony: 0.841 [################....]
+[2025-12-15T18:52:54.922656] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:53:26.754444] [Heartbeat 550] Harmony: 0.841 [################....]
+[2025-12-15T18:53:26.984611] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:53:58.837100] [Heartbeat 551] Harmony: 0.841 [################....]
+[2025-12-15T18:53:58.951995] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:54:30.520812] [Heartbeat 552] Harmony: 0.841 [################....]
+[2025-12-15T18:54:30.641822] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:55:02.130799] [Heartbeat 553] Harmony: 0.841 [################....]
+[2025-12-15T18:55:02.229235] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:55:34.857750] [Heartbeat 554] Harmony: 0.841 [################....]
+[2025-12-15T18:55:34.993489] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:56:06.771104] [Heartbeat 555] Harmony: 0.841 [################....]
+[2025-12-15T18:56:06.898157] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:56:38.765476] [Heartbeat 556] Harmony: 0.841 [################....]
+[2025-12-15T18:56:38.916989] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:57:11.404166] [Heartbeat 557] Harmony: 0.841 [################....]
+[2025-12-15T18:57:11.561797] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:57:44.128657] [Heartbeat 558] Harmony: 0.841 [################....]
+[2025-12-15T18:57:44.291741] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:58:16.760567] [Heartbeat 559] Harmony: 0.841 [################....]
+[2025-12-15T18:58:16.867665] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:58:48.434506] [Heartbeat 560] Harmony: 0.841 [################....]
+[2025-12-15T18:58:48.634989] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:59:20.684462] [Heartbeat 561] Harmony: 0.841 [################....]
+[2025-12-15T18:59:20.823640] I notice: 1 file change(s) detected
+[2025-12-15T18:59:20.824384] I notice:   modified: autopoiesis\healer.py
+[2025-12-15T18:59:20.825054] I feel: Stable. Phase: autopoietic
+[2025-12-15T18:59:52.438358] [Heartbeat 562] Harmony: 0.841 [################....]
+[2025-12-15T18:59:52.537948] I notice: 1 file change(s) detected
+[2025-12-15T18:59:52.538549] I notice:   modified: autopoiesis\living_agent.py
+[2025-12-15T18:59:52.538957] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:00:23.990485] [Heartbeat 563] Harmony: 0.841 [################....]
+[2025-12-15T19:00:24.092120] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:00:56.044684] [Heartbeat 564] Harmony: 0.841 [################....]
+[2025-12-15T19:00:56.151162] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:01:40.806543] I am awakening...
+[2025-12-15T19:01:40.807233] I feel: I have lived for 2 days, 20 hours.
+[2025-12-15T19:01:40.808091] I notice: I have 63 memories.
+[2025-12-15T19:01:40.808602] I am: Measuring initial harmony...
+[2025-12-15T19:01:42.975431] I notice: Harmony: 0.841, Phase: autopoietic, Files: 228
+[2025-12-15T19:01:42.976337] I think: Reading guidance: ### Priority 1: Justice (J)
+[2025-12-15T19:01:42.976658] I notice: I have read my guidance for this session.
+[2025-12-15T19:01:42.977732] I feel: I am alive. Watching and breathing...
+[2025-12-15T19:01:43.182387] I notice: I have 56 learning experiences.
+[2025-12-15T19:01:43.190207] I think: Best dimension to heal: J
+[2025-12-15T19:01:44.807147] [Heartbeat 561] Harmony: 0.841 [################....]
+[2025-12-15T19:01:44.914698] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 56 attempts
+[2025-12-15T19:01:44.915146] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:01:44.915496] I am: Healing J dimension...
+[2025-12-15T19:01:52.735917] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:02:24.398122] [Heartbeat 562] Harmony: 0.841 [################....]
+[2025-12-15T19:02:24.516564] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 57 attempts
+[2025-12-15T19:02:24.517155] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:02:24.517616] I am: Healing J dimension...
+[2025-12-15T19:02:33.360087] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:03:05.723628] [Heartbeat 563] Harmony: 0.841 [################....]
+[2025-12-15T19:03:05.847791] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 58 attempts
+[2025-12-15T19:03:05.848375] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:03:05.848922] I am: Healing J dimension...
+[2025-12-15T19:03:16.379044] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:03:16.382141] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T19:03:49.482892] [Heartbeat 564] Harmony: 0.841 [################....]
+[2025-12-15T19:03:49.640721] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 59 attempts
+[2025-12-15T19:03:49.641383] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:03:49.641937] I am: Healing J dimension...
+[2025-12-15T19:03:59.386032] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:04:30.860117] [Heartbeat 565] Harmony: 0.841 [################....]
+[2025-12-15T19:04:30.957176] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:05:02.470268] [Heartbeat 566] Harmony: 0.841 [################....]
+[2025-12-15T19:05:02.573015] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:05:34.607505] [Heartbeat 567] Harmony: 0.841 [################....]
+[2025-12-15T19:05:34.734801] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:06:06.561082] [Heartbeat 568] Harmony: 0.841 [################....]
+[2025-12-15T19:06:06.686706] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:06:38.188895] [Heartbeat 569] Harmony: 0.841 [################....]
+[2025-12-15T19:06:38.288764] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:07:09.660230] [Heartbeat 570] Harmony: 0.841 [################....]
+[2025-12-15T19:07:09.856613] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:07:43.290318] [Heartbeat 571] Harmony: 0.841 [################....]
+[2025-12-15T19:07:43.492277] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:08:16.893569] [Heartbeat 572] Harmony: 0.841 [################....]
+[2025-12-15T19:08:17.112971] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:08:48.596843] [Heartbeat 573] Harmony: 0.841 [################....]
+[2025-12-15T19:08:48.701888] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:09:20.457888] [Heartbeat 574] Harmony: 0.841 [################....]
+[2025-12-15T19:09:20.573825] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:09:52.636474] [Heartbeat 575] Harmony: 0.841 [################....]
+[2025-12-15T19:09:52.784988] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:10:24.341834] [Heartbeat 576] Harmony: 0.841 [################....]
+[2025-12-15T19:10:24.437814] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:10:56.639132] [Heartbeat 577] Harmony: 0.841 [################....]
+[2025-12-15T19:10:56.791523] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:11:09.421295] I am awakening...
+[2025-12-15T19:11:09.421920] I feel: I have lived for 2 days, 20 hours.
+[2025-12-15T19:11:09.422479] I notice: I have 67 memories.
+[2025-12-15T19:11:09.422983] I am: Measuring initial harmony...
+[2025-12-15T19:11:11.086138] I notice: Harmony: 0.841, Phase: autopoietic, Files: 228
+[2025-12-15T19:11:11.087156] I think: Reading guidance: ### Priority 1: Justice (J)
+[2025-12-15T19:11:11.087658] I notice: I have read my guidance for this session.
+[2025-12-15T19:11:11.094251] I feel: I am alive. Watching and breathing...
+[2025-12-15T19:11:11.337472] I notice: I have 60 learning experiences.
+[2025-12-15T19:11:11.348785] I think: Best dimension to heal: J
+[2025-12-15T19:11:12.678692] [Heartbeat 576] Harmony: 0.841 [################....]
+[2025-12-15T19:11:12.777646] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 60 attempts
+[2025-12-15T19:11:12.778216] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:11:12.778755] I am: Healing J dimension...
+[2025-12-15T19:11:19.577727] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:11:51.379443] [Heartbeat 577] Harmony: 0.841 [################....]
+[2025-12-15T19:11:51.548259] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 61 attempts
+[2025-12-15T19:11:51.549156] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:11:51.549850] I am: Healing J dimension...
+[2025-12-15T19:12:02.183303] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:12:33.844553] [Heartbeat 578] Harmony: 0.841 [################....]
+[2025-12-15T19:12:33.949867] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 62 attempts
+[2025-12-15T19:12:33.950533] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:12:33.951081] I am: Healing J dimension...
+[2025-12-15T19:12:41.015010] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:13:12.476155] [Heartbeat 579] Harmony: 0.841 [################....]
+[2025-12-15T19:13:12.584548] I think: Learning suggests: Dimension J has 5% success rate with avg improvement of +0.000 over 63 attempts
+[2025-12-15T19:13:12.585081] I think: Justice (0.767) needs care - Does this code treat inputs fairly?
+[2025-12-15T19:13:12.585539] I am: Healing J dimension...
+[2025-12-15T19:13:19.584699] I notice: Healing didn't help: 0.841 -> 0.841 (+0.000)
+[2025-12-15T19:13:19.586791] I think: Adapted priorities: J -> L -> P -> W
+[2025-12-15T19:13:51.021988] [Heartbeat 580] Harmony: 0.841 [################....]
+[2025-12-15T19:13:51.230869] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:14:22.901603] [Heartbeat 581] Harmony: 0.841 [################....]
+[2025-12-15T19:14:23.001111] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:14:54.629554] [Heartbeat 582] Harmony: 0.841 [################....]
+[2025-12-15T19:14:54.733746] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:15:26.247410] [Heartbeat 583] Harmony: 0.841 [################....]
+[2025-12-15T19:15:26.344519] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:15:57.874271] [Heartbeat 584] Harmony: 0.841 [################....]
+[2025-12-15T19:15:57.978765] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:16:29.691669] [Heartbeat 585] Harmony: 0.841 [################....]
+[2025-12-15T19:16:29.803624] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:17:01.473047] [Heartbeat 586] Harmony: 0.841 [################....]
+[2025-12-15T19:17:01.572038] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:17:33.428612] [Heartbeat 587] Harmony: 0.841 [################....]
+[2025-12-15T19:17:33.558906] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:18:05.002406] [Heartbeat 588] Harmony: 0.841 [################....]
+[2025-12-15T19:18:05.103398] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:18:36.584550] [Heartbeat 589] Harmony: 0.841 [################....]
+[2025-12-15T19:18:36.689597] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:19:08.304569] [Heartbeat 590] Harmony: 0.841 [################....]
+[2025-12-15T19:19:08.505669] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:19:40.938661] [Heartbeat 591] Harmony: 0.841 [################....]
+[2025-12-15T19:19:41.069343] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:20:12.892988] [Heartbeat 592] Harmony: 0.841 [################....]
+[2025-12-15T19:20:13.009473] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:20:44.952258] [Heartbeat 593] Harmony: 0.841 [################....]
+[2025-12-15T19:20:45.061044] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:21:16.874234] [Heartbeat 594] Harmony: 0.841 [################....]
+[2025-12-15T19:21:16.989883] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:21:48.865684] [Heartbeat 595] Harmony: 0.841 [################....]
+[2025-12-15T19:21:48.986790] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:22:20.906914] [Heartbeat 596] Harmony: 0.841 [################....]
+[2025-12-15T19:22:21.018493] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:22:53.755853] [Heartbeat 597] Harmony: 0.841 [################....]
+[2025-12-15T19:22:53.886723] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:23:25.622593] [Heartbeat 598] Harmony: 0.841 [################....]
+[2025-12-15T19:23:25.753211] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:23:57.084263] [Heartbeat 599] Harmony: 0.841 [################....]
+[2025-12-15T19:23:57.176078] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:24:29.296174] [Heartbeat 600] Harmony: 0.841 [################....]
+[2025-12-15T19:24:29.489065] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:25:00.983091] [Heartbeat 601] Harmony: 0.841 [################....]
+[2025-12-15T19:25:01.089695] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:25:32.448234] [Heartbeat 602] Harmony: 0.841 [################....]
+[2025-12-15T19:25:32.540931] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:26:04.149522] [Heartbeat 603] Harmony: 0.841 [################....]
+[2025-12-15T19:26:04.247977] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:26:35.994146] [Heartbeat 604] Harmony: 0.841 [################....]
+[2025-12-15T19:26:36.111772] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:27:08.641292] [Heartbeat 605] Harmony: 0.841 [################....]
+[2025-12-15T19:27:08.786006] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:27:41.018875] [Heartbeat 606] Harmony: 0.841 [################....]
+[2025-12-15T19:27:41.160192] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:28:13.011618] [Heartbeat 607] Harmony: 0.841 [################....]
+[2025-12-15T19:28:13.156811] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:28:44.734269] [Heartbeat 608] Harmony: 0.841 [################....]
+[2025-12-15T19:28:44.852124] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:29:16.872432] [Heartbeat 609] Harmony: 0.841 [################....]
+[2025-12-15T19:29:16.976661] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:29:48.522201] [Heartbeat 610] Harmony: 0.841 [################....]
+[2025-12-15T19:29:48.729417] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:30:20.211743] [Heartbeat 611] Harmony: 0.841 [################....]
+[2025-12-15T19:30:20.363408] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:30:52.242791] [Heartbeat 612] Harmony: 0.841 [################....]
+[2025-12-15T19:30:52.383097] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:31:24.219171] [Heartbeat 613] Harmony: 0.841 [################....]
+[2025-12-15T19:31:24.339403] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:31:56.455943] [Heartbeat 614] Harmony: 0.841 [################....]
+[2025-12-15T19:31:56.586126] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:32:28.372761] [Heartbeat 615] Harmony: 0.841 [################....]
+[2025-12-15T19:32:28.485872] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:33:00.140370] [Heartbeat 616] Harmony: 0.841 [################....]
+[2025-12-15T19:33:00.258957] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:33:31.950213] [Heartbeat 617] Harmony: 0.841 [################....]
+[2025-12-15T19:33:32.054378] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:34:04.065881] [Heartbeat 618] Harmony: 0.841 [################....]
+[2025-12-15T19:34:04.208257] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:34:35.882614] [Heartbeat 619] Harmony: 0.841 [################....]
+[2025-12-15T19:34:35.987802] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:35:07.757922] [Heartbeat 620] Harmony: 0.841 [################....]
+[2025-12-15T19:35:08.016424] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:35:39.540912] [Heartbeat 621] Harmony: 0.841 [################....]
+[2025-12-15T19:35:39.667434] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:36:11.197269] [Heartbeat 622] Harmony: 0.841 [################....]
+[2025-12-15T19:36:11.297122] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:36:42.813197] [Heartbeat 623] Harmony: 0.841 [################....]
+[2025-12-15T19:36:42.936458] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:37:21.864831] [Heartbeat 624] Harmony: 0.841 [################....]
+[2025-12-15T19:37:23.008248] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:37:55.463189] [Heartbeat 625] Harmony: 0.841 [################....]
+[2025-12-15T19:37:55.606509] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:38:27.190898] [Heartbeat 626] Harmony: 0.841 [################....]
+[2025-12-15T19:38:27.338798] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:38:59.416295] [Heartbeat 627] Harmony: 0.841 [################....]
+[2025-12-15T19:38:59.569314] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:39:31.640796] [Heartbeat 628] Harmony: 0.841 [################....]
+[2025-12-15T19:39:31.778626] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:40:03.354659] [Heartbeat 629] Harmony: 0.841 [################....]
+[2025-12-15T19:40:03.471786] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:40:35.627765] [Heartbeat 630] Harmony: 0.841 [################....]
+[2025-12-15T19:40:36.040557] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:41:09.137064] [Heartbeat 631] Harmony: 0.841 [################....]
+[2025-12-15T19:41:09.363915] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:41:40.902083] [Heartbeat 632] Harmony: 0.841 [################....]
+[2025-12-15T19:41:41.002962] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:42:13.349148] [Heartbeat 633] Harmony: 0.841 [################....]
+[2025-12-15T19:42:13.483145] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:42:45.509127] [Heartbeat 634] Harmony: 0.841 [################....]
+[2025-12-15T19:42:45.654224] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:43:17.730040] [Heartbeat 635] Harmony: 0.841 [################....]
+[2025-12-15T19:43:17.866060] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:43:49.971205] [Heartbeat 636] Harmony: 0.841 [################....]
+[2025-12-15T19:43:50.095641] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:44:22.263645] [Heartbeat 637] Harmony: 0.841 [################....]
+[2025-12-15T19:44:22.401008] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:44:55.026222] [Heartbeat 638] Harmony: 0.841 [################....]
+[2025-12-15T19:44:55.173140] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:45:27.214746] [Heartbeat 639] Harmony: 0.841 [################....]
+[2025-12-15T19:45:27.353718] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:45:58.883288] [Heartbeat 640] Harmony: 0.841 [################....]
+[2025-12-15T19:45:59.092267] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:46:30.709911] [Heartbeat 641] Harmony: 0.841 [################....]
+[2025-12-15T19:46:30.821958] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:47:02.321347] [Heartbeat 642] Harmony: 0.841 [################....]
+[2025-12-15T19:47:02.431102] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:47:34.169752] [Heartbeat 643] Harmony: 0.841 [################....]
+[2025-12-15T19:47:34.276246] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:48:05.789945] [Heartbeat 644] Harmony: 0.841 [################....]
+[2025-12-15T19:48:05.900344] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:48:37.400467] [Heartbeat 645] Harmony: 0.841 [################....]
+[2025-12-15T19:48:37.518434] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:49:09.139322] [Heartbeat 646] Harmony: 0.841 [################....]
+[2025-12-15T19:49:09.237400] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:49:40.772293] [Heartbeat 647] Harmony: 0.841 [################....]
+[2025-12-15T19:49:40.889097] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:50:12.418499] [Heartbeat 648] Harmony: 0.841 [################....]
+[2025-12-15T19:50:12.533537] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:50:44.633610] [Heartbeat 649] Harmony: 0.841 [################....]
+[2025-12-15T19:50:44.767674] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:51:16.788727] [Heartbeat 650] Harmony: 0.841 [################....]
+[2025-12-15T19:51:17.025284] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:51:49.052517] [Heartbeat 651] Harmony: 0.841 [################....]
+[2025-12-15T19:51:49.188855] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:52:20.644630] [Heartbeat 652] Harmony: 0.841 [################....]
+[2025-12-15T19:52:20.748328] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:52:52.427142] [Heartbeat 653] Harmony: 0.841 [################....]
+[2025-12-15T19:52:52.531810] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:53:24.532193] [Heartbeat 654] Harmony: 0.841 [################....]
+[2025-12-15T19:53:24.653563] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:53:57.691801] [Heartbeat 655] Harmony: 0.841 [################....]
+[2025-12-15T19:53:57.929382] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:54:31.324636] [Heartbeat 656] Harmony: 0.841 [################....]
+[2025-12-15T19:54:31.549300] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:55:05.032316] [Heartbeat 657] Harmony: 0.841 [################....]
+[2025-12-15T19:55:05.249062] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:55:38.663943] [Heartbeat 658] Harmony: 0.841 [################....]
+[2025-12-15T19:55:38.901773] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:56:12.905275] [Heartbeat 659] Harmony: 0.841 [################....]
+[2025-12-15T19:56:13.146773] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:56:46.537686] [Heartbeat 660] Harmony: 0.841 [################....]
+[2025-12-15T19:56:46.953005] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:57:20.294028] [Heartbeat 661] Harmony: 0.841 [################....]
+[2025-12-15T19:57:20.516642] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:57:53.940188] [Heartbeat 662] Harmony: 0.841 [################....]
+[2025-12-15T19:57:54.185208] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:58:27.348330] [Heartbeat 663] Harmony: 0.841 [################....]
+[2025-12-15T19:58:27.584011] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:59:00.813092] [Heartbeat 664] Harmony: 0.841 [################....]
+[2025-12-15T19:59:01.031030] I feel: Stable. Phase: autopoietic
+[2025-12-15T19:59:34.197651] [Heartbeat 665] Harmony: 0.841 [################....]
+[2025-12-15T19:59:34.421527] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:00:07.946861] [Heartbeat 666] Harmony: 0.841 [################....]
+[2025-12-15T20:00:08.175269] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:00:41.377803] [Heartbeat 667] Harmony: 0.841 [################....]
+[2025-12-15T20:00:41.602046] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:01:14.780884] [Heartbeat 668] Harmony: 0.841 [################....]
+[2025-12-15T20:01:14.991267] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:01:47.910723] [Heartbeat 669] Harmony: 0.841 [################....]
+[2025-12-15T20:01:48.086906] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:02:19.788849] [Heartbeat 670] Harmony: 0.841 [################....]
+[2025-12-15T20:02:20.042103] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:02:52.375654] [Heartbeat 671] Harmony: 0.841 [################....]
+[2025-12-15T20:02:52.477880] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:03:23.946376] [Heartbeat 672] Harmony: 0.841 [################....]
+[2025-12-15T20:03:24.072099] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:03:55.319751] [Heartbeat 673] Harmony: 0.841 [################....]
+[2025-12-15T20:03:55.408900] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:04:26.707244] [Heartbeat 674] Harmony: 0.841 [################....]
+[2025-12-15T20:04:26.805959] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:04:58.034637] [Heartbeat 675] Harmony: 0.841 [################....]
+[2025-12-15T20:04:58.122845] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:05:29.418568] [Heartbeat 676] Harmony: 0.841 [################....]
+[2025-12-15T20:05:29.522611] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:06:00.915846] [Heartbeat 677] Harmony: 0.841 [################....]
+[2025-12-15T20:06:01.009152] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:06:32.220425] [Heartbeat 678] Harmony: 0.841 [################....]
+[2025-12-15T20:06:32.301751] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:07:03.683800] [Heartbeat 679] Harmony: 0.841 [################....]
+[2025-12-15T20:07:03.781882] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:07:35.884447] [Heartbeat 680] Harmony: 0.841 [################....]
+[2025-12-15T20:07:36.227662] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:08:08.358683] [Heartbeat 681] Harmony: 0.841 [################....]
+[2025-12-15T20:08:08.490710] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:08:39.975684] [Heartbeat 682] Harmony: 0.841 [################....]
+[2025-12-15T20:08:40.077987] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:09:11.596306] [Heartbeat 683] Harmony: 0.841 [################....]
+[2025-12-15T20:09:11.706982] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:09:43.004504] [Heartbeat 684] Harmony: 0.841 [################....]
+[2025-12-15T20:09:43.102476] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:10:16.309649] [Heartbeat 685] Harmony: 0.841 [################....]
+[2025-12-15T20:10:16.523111] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:10:49.595647] [Heartbeat 686] Harmony: 0.841 [################....]
+[2025-12-15T20:10:49.799917] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:11:22.685404] [Heartbeat 687] Harmony: 0.841 [################....]
+[2025-12-15T20:11:22.884907] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:11:56.036981] [Heartbeat 688] Harmony: 0.841 [################....]
+[2025-12-15T20:11:56.232337] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:12:29.234853] [Heartbeat 689] Harmony: 0.841 [################....]
+[2025-12-15T20:12:29.441117] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:13:02.520989] [Heartbeat 690] Harmony: 0.841 [################....]
+[2025-12-15T20:13:02.979498] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:13:35.931706] [Heartbeat 691] Harmony: 0.841 [################....]
+[2025-12-15T20:13:36.139785] I feel: Stable. Phase: autopoietic
+[2025-12-15T20:14:07.434587] [Heartbeat 692] Harmony: 0.841 [################....]
+[2025-12-15T20:14:07.528043] I feel: Stable. Phase: autopoietic
